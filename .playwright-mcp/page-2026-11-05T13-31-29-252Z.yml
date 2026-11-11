@@ -1,0 +1,52 @@
+- generic [ref=f40e2]:
+  - banner [ref=f40e3]:
+    - generic [ref=f40e4]:
+      - link "XTRA Beauty — Home" [ref=f40e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f40e6]
+      - navigation [ref=f40e7]:
+        - link "Home" [ref=f40e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f40e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f40e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f40e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f40e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f40e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f40e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f40e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f40e19]:
+    - generic [ref=f40e21]:
+      - generic [ref=f40e22]:
+        - generic [aria-hidden]: "404"
+        - heading "Page Not Found" [level=2] [ref=f40e25]
+      - paragraph [ref=f40e27]: The page you are looking for doesn't exist or has been moved. Let's get you back to the salon.
+      - link "Back to Home" [ref=f40e28] [cursor=pointer]:
+        - /url: /
+  - contentinfo [ref=f40e29]:
+    - generic [ref=f40e31]:
+      - link [ref=f40e32] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f40e33]
+      - paragraph [ref=f40e34]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f40e35]:
+        - textbox "Email address" [ref=f40e36]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f40e37]
+      - generic [ref=f40e40]:
+        - link "Facebook" [ref=f40e41] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f40e44] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f40e47] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f40e50] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f40e54]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top"

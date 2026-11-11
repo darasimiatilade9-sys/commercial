@@ -1,0 +1,79 @@
+- generic [ref=f34e2]:
+  - banner [ref=f34e3]:
+    - generic [ref=f34e4]:
+      - link "XTRA Beauty — Home" [ref=f34e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f34e6]
+      - navigation [ref=f34e7]:
+        - link "Home" [ref=f34e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f34e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f34e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f34e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f34e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f34e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f34e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f34e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f34e19]:
+    - generic [ref=f34e23]:
+      - heading "Gallery" [level=1] [ref=f34e24]
+      - navigation [ref=f34e25]:
+        - link "Home" [ref=f34e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f34e27]: /
+        - generic [ref=f34e28]: Gallery
+    - generic [ref=f34e30]:
+      - generic [ref=f34e32]:
+        - generic [aria-hidden]: BEAUTY
+        - heading "Our Gallery" [level=2] [ref=f34e35]
+      - generic [ref=f34e37]:
+        - 'button "Open image: Facial treatment with beauty sponge" [ref=f34e39]':
+          - img "Facial treatment with beauty sponge" [ref=f34e40]
+        - 'button "Open image: Blonde model with flowing hair" [ref=f34e46]':
+          - img "Blonde model with flowing hair" [ref=f34e47]
+        - 'button "Open image: Makeup brush application" [ref=f34e53]':
+          - img "Makeup brush application" [ref=f34e54]
+        - 'button "Open image: Studio portrait with red lips" [ref=f34e60]':
+          - img "Studio portrait with red lips" [ref=f34e61]
+        - 'button "Open image: Lipstick application in profile" [ref=f34e67]':
+          - img "Lipstick application in profile" [ref=f34e68]
+        - 'button "Open image: Lip liner detail" [ref=f34e74]':
+          - img "Lip liner detail" [ref=f34e75]
+        - 'button "Open image: Bridal makeup look" [ref=f34e81]':
+          - img "Bridal makeup look" [ref=f34e82]
+        - 'button "Open image: Evening glamour portrait" [ref=f34e88]':
+          - img "Evening glamour portrait" [ref=f34e89]
+        - 'button "Open image: Salon styling session" [ref=f34e95]':
+          - img "Salon styling session" [ref=f34e96]
+        - 'button "Open image: Skincare consultation" [ref=f34e102]':
+          - img "Skincare consultation" [ref=f34e103]
+      - link "Make an Appointment" [ref=f34e109] [cursor=pointer]:
+        - /url: /make-an-appointment
+  - contentinfo [ref=f34e110]:
+    - generic [ref=f34e112]:
+      - link [ref=f34e113] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f34e114]
+      - paragraph [ref=f34e115]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f34e116]:
+        - textbox "Email address" [ref=f34e117]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f34e118]
+      - generic [ref=f34e121]:
+        - link "Facebook" [ref=f34e122] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f34e125] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f34e128] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f34e131] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f34e135]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top"

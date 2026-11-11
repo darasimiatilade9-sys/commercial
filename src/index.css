@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+@theme {
+  /* ---- Fonts ---- */
+  --font-sans: "Comfortaa", ui-sans-serif, system-ui, sans-serif;
+  --font-ui: "Quicksand", ui-sans-serif, system-ui, sans-serif;
+  --font-script: "Dancing Script", cursive;
+
+  /* ---- Brand palette (measured from xtratheme.com/beauty-salon) ---- */
+  --color-gold: #e1bb87;
+  --color-gold-light: #f5cf9d;
+  --color-gold-ghost: #f6e7d3;
+  --color-cream: #fbf5ed;
+  --color-dark: #262626;
+  --color-ink: #444444;
+  --color-ink-soft: #666666;
+  --color-line: #e8e8e8;
+
+  /* ---- Typography scale ---- */
+  --text-ghost: 5.5rem;
+  --text-heading: 3rem;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white font-sans text-ink antialiased;
+    font-size: 15px;
+    line-height: 1.9;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-script font-bold text-ink;
+    line-height: 1.25;
+  }
+
+  a {
+    @apply transition-colors duration-300;
+  }
+
+  ::selection {
+    @apply bg-gold text-white;
+  }
+}
+
+@layer components {
+  /* Gold solid button */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 bg-gold px-8 py-3.5
+           font-ui text-[15px] font-semibold tracking-wide text-dark
+           transition-all duration-300 hover:bg-dark hover:text-white;
+  }
+
+  /* Gold outline button (used over dark / images) */
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 border border-gold
+           px-8 py-3.5 font-ui text-[15px] font-semibold tracking-wide text-gold
+           transition-all duration-300 hover:bg-gold hover:text-dark;
+  }
+
+  /* Input fields */
+  .field {
+    @apply w-full border border-gold bg-white px-5 py-3.5 font-sans text-[14px]
+           text-ink outline-none transition placeholder:text-neutral-400
+           focus:border-dark;
+  }
+
+  .field-dark {
+    @apply w-full border border-neutral-600 bg-transparent px-5 py-3.5
+           font-sans text-[14px] text-white outline-none transition
+           placeholder:text-neutral-400 focus:border-gold;
+  }
+}
+
+/* ---- Marquee (shop "HOT SALE" strip) ---- */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.animate-marquee {
+  animation: marquee 18s linear infinite;
+}
+
+/* ---- Hero slide content ---- */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(26px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ---- Scroll reveal ---- */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  .animate-marquee {
+    animation: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}

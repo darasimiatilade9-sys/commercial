@@ -1,0 +1,131 @@
+- generic [active] [ref=f23e1]:
+  - generic [ref=f23e2]:
+    - link [ref=f23e3] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+      - img "XTRA WordPress Theme on Envato Market" [ref=f23e4]
+    - strong [ref=f23e5]:
+      - text: Limited time offer, Buy XTRA WordPress theme only
+      - strong [ref=f23e6]: $39
+    - link "Download XTRA Theme" [ref=f23e7] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+  - generic [ref=f23e9]:
+    - banner [ref=f23e10]:
+      - generic [ref=f23e13]:
+        - link [ref=f23e16] [cursor=pointer]:
+          - /url: https://xtratheme.com/beauty-salon/
+          - img "Beauty Salon WordPress Theme" [ref=f23e17]
+        - generic [ref=f23e18]:
+          - link "Book Now" [ref=f23e20] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/make-an-appointment/
+          - generic [ref=f23e21]:
+            - text: 
+            - list [ref=f23e22]:
+              - listitem [ref=f23e23]:
+                - link "Home" [ref=f23e24] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/
+              - listitem [ref=f23e25]:
+                - link "About" [ref=f23e26] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/about/
+                - text: 
+              - listitem [ref=f23e27]:
+                - link "Gallery" [ref=f23e28] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/gallery/
+              - listitem [ref=f23e29]:
+                - link "FAQ" [ref=f23e30] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/faq/
+              - listitem [ref=f23e31]:
+                - link "Blog" [ref=f23e32] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/blog/
+              - listitem [ref=f23e33]:
+                - link "Shop" [ref=f23e34] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/shop/
+              - listitem [ref=f23e35]:
+                - link "Contact" [ref=f23e36] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/contact/
+              - text: 
+            - text: 
+      - text:          
+    - generic [ref=f23e41]:
+      - link [ref=f23e43] [cursor=pointer]:
+        - /url: https://xtratheme.com/beauty-salon/
+        - generic [aria-hidden] [ref=f23e44]: 
+      - generic [aria-hidden] [ref=f23e45]: 
+      - generic [ref=f23e46]:
+        - link "Make an Appointment":
+          - /url: https://xtratheme.com/beauty-salon/make-an-appointment/
+    - main [ref=f23e47]:
+      - generic [ref=f23e52]:
+        - generic [ref=f23e56]:
+          - generic [ref=f23e58]:
+            - generic: Reservation
+            - generic [ref=f23e59]:
+              - generic [ref=f23e60]: _
+              - heading "Make an Appointment" [level=2] [ref=f23e62]
+              - generic [ref=f23e63]: _
+          - paragraph [ref=f23e68]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+        - generic [ref=f23e76]:
+          - generic [ref=f23e77]:
+            - list
+          - form "Contact form" [ref=f23e78]:
+            - paragraph [ref=f23e79]:
+              - generic [ref=f23e80]: Your Name (required)
+              - textbox [ref=f23e82]
+            - paragraph [ref=f23e83]:
+              - generic [ref=f23e84]: Your Email (required)
+              - textbox [ref=f23e86]
+            - paragraph [ref=f23e87]:
+              - generic [ref=f23e88]: Services
+              - combobox [ref=f23e90]:
+                - option "Haircuts" [selected]
+                - option "Hair Styling"
+                - option "Makeup"
+                - option "Skin Care"
+                - option "Others"
+            - paragraph [ref=f23e91]:
+              - generic [ref=f23e92]: Date
+              - textbox [ref=f23e94]
+            - paragraph [ref=f23e95]:
+              - generic [ref=f23e96]: Your Message
+              - textbox [ref=f23e98]
+            - paragraph [ref=f23e99]:
+              - button "Submit" [ref=f23e100] [cursor=pointer]
+    - contentinfo [ref=f23e102]:
+      - generic [ref=f23e105]:
+        - generic [ref=f23e107]:
+          - img "Logo" [ref=f23e108]
+          - generic [ref=f23e109]: Contact us today and we’ll help you get started. Most people start with an About page that introduces them to potential site visitors.
+        - generic [ref=f23e111]:
+          - textbox "Enter your email ..." [ref=f23e113]
+          - button " Join Now" [ref=f23e114] [cursor=pointer]:
+            - generic [ref=f23e115]: 
+            - text: Join Now
+        - generic [ref=f23e117]:
+          - button "Facebook" [ref=f23e118] [cursor=pointer]:
+            - generic [ref=f23e119]: 
+          - button "Twitter" [ref=f23e120] [cursor=pointer]:
+            - generic [ref=f23e121]: 
+          - button "Instagram" [ref=f23e122] [cursor=pointer]:
+            - generic [ref=f23e123]: 
+          - button "Pinterest" [ref=f23e124] [cursor=pointer]:
+            - generic [ref=f23e125]: 
+      - generic [ref=f23e126]: Copyright © 2026 Xtra Theme. All Rights Reserved.
+  - text: 
+  - generic [ref=f23e134]:
+    - generic [ref=f23e137]: This website uses cookies to improve user experience.
+    - button "Allow and close cookie notice" [ref=f23e138] [cursor=pointer]: Accept and close
+  - generic [ref=f23e139]:
+    - link [ref=f23e140] [cursor=pointer]:
+      - /url: https://1.envato.market/xtratheme
+      - img "Buy and Download XTRA Theme" [ref=f23e141]
+    - link [ref=f23e142] [cursor=pointer]:
+      - /url: https://xtratheme.com/docs
+      - img "Xtra Theme Documentation" [ref=f23e143]
+    - link [ref=f23e144] [cursor=pointer]:
+      - /url: https://youtube.com/channel/UCrS1L4oeTRfU1hvIo1gJGjg/videos
+      - img "Xtra Theme Videos Tutorials" [ref=f23e145]
+    - link [ref=f23e146] [cursor=pointer]:
+      - /url: https://codevz.ticksy.com/
+      - img "Xtra Theme Support Center" [ref=f23e147]
+    - link [ref=f23e148] [cursor=pointer]:
+      - /url: https://xtratheme.com/showcase
+      - img "Xtra Theme Showcase" [ref=f23e149]

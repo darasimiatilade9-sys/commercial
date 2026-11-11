@@ -1,0 +1,128 @@
+- generic [ref=f25e2]:
+  - banner [ref=f25e3]:
+    - generic [ref=f25e4]:
+      - link "XTRA Beauty — Home" [ref=f25e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f25e6]
+      - navigation [ref=f25e7]:
+        - link "Home" [ref=f25e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f25e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f25e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f25e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f25e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f25e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f25e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f25e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f25e19]:
+    - generic [ref=f25e23]:
+      - heading "About Us" [level=1] [ref=f25e24]
+      - navigation [ref=f25e25]:
+        - link "Home" [ref=f25e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f25e27]: /
+        - generic [ref=f25e28]: About Us
+    - generic [ref=f25e30]:
+      - generic [ref=f25e31]:
+        - img "Treatment room" [ref=f25e32]
+        - img "Makeup session" [ref=f25e33]
+        - img "Studio portrait" [ref=f25e34]
+        - img "Lipstick detail" [ref=f25e35]
+      - generic [ref=f25e36]:
+        - generic [ref=f25e37]:
+          - generic [aria-hidden]: ABOUT
+          - heading "About Us" [level=2] [ref=f25e40]
+        - paragraph [ref=f25e42]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+        - paragraph [ref=f25e43]: Founded over a decade ago, our studio pairs experienced stylists with a calm, welcoming space. Every visit begins with a consultation so the result always suits you.
+        - generic [ref=f25e44]:
+          - link "Make an Appointment" [ref=f25e45] [cursor=pointer]:
+            - /url: /make-an-appointment
+          - link "View Gallery" [ref=f25e46] [cursor=pointer]:
+            - /url: /gallery
+    - generic [ref=f25e48]:
+      - generic [ref=f25e49]:
+        - paragraph [ref=f25e50]: 12+
+        - paragraph [ref=f25e51]: Years Open
+      - generic [ref=f25e52]:
+        - paragraph [ref=f25e53]: 8.5k
+        - paragraph [ref=f25e54]: Happy Clients
+      - generic [ref=f25e55]:
+        - paragraph [ref=f25e56]: "24"
+        - paragraph [ref=f25e57]: Stylists
+      - generic [ref=f25e58]:
+        - paragraph [ref=f25e59]: 60+
+        - paragraph [ref=f25e60]: Treatments
+    - generic [ref=f25e62]:
+      - generic [ref=f25e64]:
+        - generic [aria-hidden]: BEAUTY
+        - heading "Our Gallery" [level=2] [ref=f25e67]
+      - generic [ref=f25e69]:
+        - img "Facial treatment with beauty sponge" [ref=f25e71]
+        - img "Blonde model with flowing hair" [ref=f25e73]
+        - img "Makeup brush application" [ref=f25e75]
+        - img "Studio portrait with red lips" [ref=f25e77]
+    - generic [ref=f25e79]:
+      - generic [ref=f25e81]:
+        - generic [aria-hidden]: TEAM
+        - heading "Our Team" [level=2] [ref=f25e84]
+      - generic [ref=f25e86]:
+        - article [ref=f25e88]:
+          - generic [ref=f25e89]:
+            - img "Jenni West" [ref=f25e90]
+            - paragraph [ref=f25e92]: View Profile
+          - generic [ref=f25e93]:
+            - heading "Jenni West" [level=3] [ref=f25e94]
+            - paragraph [ref=f25e95]: Hair Stylist
+        - article [ref=f25e97]:
+          - generic [ref=f25e98]:
+            - img "Linda Someone" [ref=f25e99]
+            - paragraph [ref=f25e101]: View Profile
+          - generic [ref=f25e102]:
+            - heading "Linda Someone" [level=3] [ref=f25e103]
+            - paragraph [ref=f25e104]: Skin Specialist
+        - article [ref=f25e106]:
+          - generic [ref=f25e107]:
+            - img "Amanda Carston" [ref=f25e108]
+            - paragraph [ref=f25e110]: View Profile
+          - generic [ref=f25e111]:
+            - heading "Amanda Carston" [level=3] [ref=f25e112]
+            - paragraph [ref=f25e113]: Makeup Artist
+        - article [ref=f25e115]:
+          - generic [ref=f25e116]:
+            - img "Clara Carston" [ref=f25e117]
+            - paragraph [ref=f25e119]: View Profile
+          - generic [ref=f25e120]:
+            - heading "Clara Carston" [level=3] [ref=f25e121]
+            - paragraph [ref=f25e122]: Nail Technician
+    - generic [ref=f25e123]:
+      - heading "Ready for your visit?" [level=2] [ref=f25e124]
+      - link "Book Now" [ref=f25e125] [cursor=pointer]:
+        - /url: /make-an-appointment
+  - contentinfo [ref=f25e126]:
+    - generic [ref=f25e128]:
+      - link [ref=f25e129] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f25e130]
+      - paragraph [ref=f25e131]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f25e132]:
+        - textbox "Email address" [ref=f25e133]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f25e134]
+      - generic [ref=f25e137]:
+        - link "Facebook" [ref=f25e138] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f25e141] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f25e144] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f25e147] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f25e151]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top"

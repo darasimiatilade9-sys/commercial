@@ -1,0 +1,284 @@
+- generic [active] [ref=f7e1]:
+  - generic [ref=f7e2]:
+    - link [ref=f7e3] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+      - img "XTRA WordPress Theme on Envato Market" [ref=f7e4]
+    - strong [ref=f7e5]:
+      - text: Limited time offer, Buy XTRA WordPress theme only
+      - strong [ref=f7e6]: $39
+    - link "Download XTRA Theme" [ref=f7e7] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+  - generic [ref=f7e9]:
+    - banner [ref=f7e10]:
+      - generic [ref=f7e13]:
+        - link [ref=f7e16] [cursor=pointer]:
+          - /url: https://xtratheme.com/beauty-salon/
+          - img "Beauty Salon WordPress Theme" [ref=f7e17]
+        - generic [ref=f7e18]:
+          - link "Book Now" [ref=f7e20] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/make-an-appointment/
+          - generic [ref=f7e21]:
+            - text: 
+            - list [ref=f7e22]:
+              - listitem [ref=f7e23]:
+                - link "Home" [ref=f7e24] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/
+              - listitem [ref=f7e25]:
+                - link "About" [ref=f7e26] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/about/
+                - text: 
+              - listitem [ref=f7e27]:
+                - link "Gallery" [ref=f7e28] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/gallery/
+              - listitem [ref=f7e29]:
+                - link "FAQ" [ref=f7e30] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/faq/
+              - listitem [ref=f7e31]:
+                - link "Blog" [ref=f7e32] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/blog/
+              - listitem [ref=f7e33]:
+                - link "Shop" [ref=f7e34] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/shop/
+              - listitem [ref=f7e35]:
+                - link "Contact" [ref=f7e36] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/contact/
+              - text: 
+            - text: 
+      - text:          
+    - generic [ref=f7e40]:
+      - generic [ref=f7e42] [cursor=pointer]: 
+      - generic [ref=f7e43] [cursor=pointer]: 
+      - generic [ref=f7e417]:
+        - generic [ref=f7e420]:
+          - generic [ref=f7e421]:
+            - generic [ref=f7e422]: S
+            - generic [ref=f7e423]: p
+            - generic [ref=f7e424]: e
+            - generic [ref=f7e425]: c
+            - generic [ref=f7e426]: i
+            - generic [ref=f7e427]: a
+            - generic [ref=f7e428]: l
+          - generic [ref=f7e429]:
+            - generic [ref=f7e430]: C
+            - generic [ref=f7e431]: o
+            - generic [ref=f7e432]: l
+            - generic [ref=f7e433]: o
+            - generic [ref=f7e434]: r
+          - generic [ref=f7e435]:
+            - generic [ref=f7e436]: f
+            - generic [ref=f7e437]: o
+            - generic [ref=f7e438]: r
+          - generic [ref=f7e439]:
+            - generic [ref=f7e440]: "Y"
+            - generic [ref=f7e441]: o
+            - generic [ref=f7e442]: u
+        - generic [ref=f7e443]: Book an Appointment
+    - main [ref=f7e45]:
+      - generic [ref=f7e50]:
+        - generic [ref=f7e54]:
+          - generic [ref=f7e58]:
+            - img "Img3"
+          - generic [ref=f7e60]:
+            - generic: About Us
+            - generic [ref=f7e61]:
+              - generic [ref=f7e62]: _
+              - heading "Our History" [level=2] [ref=f7e64]
+              - generic [ref=f7e65]: _
+          - paragraph [ref=f7e70]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+          - link [ref=f7e74] [cursor=pointer]:
+            - /url: http://xtratheme.com/beauty-salon/about/
+            - strong [ref=f7e76]: About Us
+            - strong [ref=f7e78]: About Us
+        - generic [ref=f7e87]:
+          - heading "Lovely Beauty Luxury" [level=2] [ref=f7e89]:
+            - generic [ref=f7e90]:
+              - generic [ref=f7e91]: Lovely
+              - generic [ref=f7e92]: Beauty
+              - generic [ref=f7e93]: Luxury
+          - link [ref=f7e97] [cursor=pointer]:
+            - /url: http://xtratheme.com/beauty-salon/gallery/
+            - strong [ref=f7e99]: View Gallery
+            - strong [ref=f7e101]: View Gallery
+        - generic [ref=f7e107]:
+          - generic: Services
+          - generic [ref=f7e108]:
+            - generic [ref=f7e109]: _
+            - heading "Our Services" [level=2] [ref=f7e111]
+            - generic [ref=f7e112]: _
+        - generic [ref=f7e114]:
+          - generic [ref=f7e119]:
+            - generic [ref=f7e125]:
+              - heading "Haircut" [level=2] [ref=f7e126]
+              - generic [ref=f7e127]: From $20
+            - link "Reserve" [ref=f7e132] [cursor=pointer]:
+              - /url: "#"
+          - generic [ref=f7e137]:
+            - generic [ref=f7e143]:
+              - heading "Skin Care" [level=2] [ref=f7e144]
+              - generic [ref=f7e146]: From $50
+            - button "Make an Appointment" [ref=f7e151] [cursor=pointer]: Reserve
+          - generic [ref=f7e156]:
+            - generic [ref=f7e162]:
+              - heading "Makeup" [level=2] [ref=f7e163]
+              - generic [ref=f7e164]: From $40
+            - button "Make an Appointment" [ref=f7e169] [cursor=pointer]: Reserve
+        - generic [ref=f7e182]:
+          - generic [ref=f7e184]:
+            - generic: Our Club
+            - generic [ref=f7e185]:
+              - heading "Our Beauty Center" [level=2] [ref=f7e187]
+              - generic [ref=f7e188]: _
+          - paragraph [ref=f7e193]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+          - generic [ref=f7e195]:
+            - button "Facebook" [ref=f7e196] [cursor=pointer]:
+              - generic [ref=f7e197]: Facebook
+            - button "Twitter" [ref=f7e198] [cursor=pointer]:
+              - generic [ref=f7e199]: Twitter
+            - button "Instagram" [ref=f7e200] [cursor=pointer]:
+              - generic [ref=f7e201]: Instagram
+            - button "Skype" [ref=f7e202] [cursor=pointer]:
+              - generic [ref=f7e203]: Skype
+        - generic [ref=f7e208]:
+          - generic [ref=f7e210]:
+            - generic: Discount
+            - generic [ref=f7e211]:
+              - heading "Special Offer" [level=2] [ref=f7e213]
+              - generic [ref=f7e214]: _
+          - paragraph [ref=f7e219]: 20% Off on all beauty services, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women.
+          - list [ref=f7e221]:
+            - listitem [ref=f7e222]:
+              - text: "00"
+              - paragraph [ref=f7e223]: Day
+            - listitem [ref=f7e224]:
+              - text: "00"
+              - paragraph [ref=f7e225]: Hour
+            - listitem [ref=f7e226]:
+              - text: "00"
+              - paragraph [ref=f7e227]: Minute
+            - listitem [ref=f7e228]:
+              - text: "00"
+              - paragraph [ref=f7e229]: Second
+          - link " Book Now  Book Now" [ref=f7e233] [cursor=pointer]:
+            - /url: http://xtratheme.com/beauty-salon/make-an-appointment/
+            - generic [ref=f7e234]:
+              - generic [ref=f7e235]: 
+              - strong [ref=f7e236]: Book Now
+            - generic [ref=f7e237]:
+              - generic [ref=f7e238]: 
+              - strong [ref=f7e239]: Book Now
+        - generic [ref=f7e253]:
+          - generic [ref=f7e254]:
+            - generic: Gallery
+            - generic [ref=f7e255]:
+              - heading "Our Gallery" [level=2] [ref=f7e257]
+              - generic [ref=f7e258]: _
+          - paragraph [ref=f7e263]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+          - link " View Gallery  View Gallery" [ref=f7e267] [cursor=pointer]:
+            - /url: http://xtratheme.com/beauty-salon/gallery/
+            - generic [ref=f7e268]:
+              - generic [ref=f7e269]: 
+              - strong [ref=f7e270]: View Gallery
+            - generic [ref=f7e271]:
+              - generic [ref=f7e272]: 
+              - strong [ref=f7e273]: View Gallery
+        - generic [ref=f7e279]:
+          - generic [ref=f7e281]:
+            - generic: Beauty
+            - generic [ref=f7e282]:
+              - generic [ref=f7e283]: _
+              - heading "Gallery" [level=2] [ref=f7e285]
+              - generic [ref=f7e286]: _
+          - generic [ref=f7e289]:
+            - link "Img4 " [ref=f7e292] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img4.jpg
+              - img "Img4"
+              - generic [ref=f7e293]: 
+            - link "Slide3 " [ref=f7e297] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/slide3.jpg
+              - img "Slide3"
+              - generic [ref=f7e298]: 
+            - link "Img8 " [ref=f7e302] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img8.jpg
+              - img "Img8"
+              - generic [ref=f7e303]: 
+            - link "Img9 " [ref=f7e307] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img9-1.jpg
+              - img "Img9"
+              - generic [ref=f7e308]: 
+            - link "Slide2 " [ref=f7e312] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/slide2.jpg
+              - img "Slide2"
+              - generic [ref=f7e313]: 
+          - link " Make an Appointment  Make an Appointment" [ref=f7e318] [cursor=pointer]:
+            - /url: http://xtratheme.com/beauty-salon/make-an-appointment/
+            - generic [ref=f7e319]:
+              - generic [ref=f7e320]: 
+              - strong [ref=f7e321]: Make an Appointment
+            - generic [ref=f7e322]:
+              - generic [ref=f7e323]: 
+              - strong [ref=f7e324]: Make an Appointment
+        - generic [ref=f7e326]:
+          - paragraph [ref=f7e336]: No23. Some Ave, Your City Name, NY 90025
+          - generic [ref=f7e345]:
+            - generic [ref=f7e346]:
+              - generic: Contact
+              - generic [ref=f7e347]:
+                - heading "Get in Touch" [level=2] [ref=f7e349]
+                - generic [ref=f7e350]: _
+            - generic [ref=f7e354]:
+              - generic [ref=f7e355]:
+                - list
+              - form "Contact form" [ref=f7e356]:
+                - paragraph [ref=f7e357]:
+                  - textbox "Your Name (*)" [ref=f7e359]
+                - paragraph [ref=f7e360]:
+                  - textbox "Your Email (*)" [ref=f7e362]
+                - paragraph [ref=f7e363]:
+                  - textbox "Subject" [ref=f7e365]
+                - paragraph [ref=f7e366]:
+                  - combobox [ref=f7e368]:
+                    - option "Business Department" [selected]
+                    - option "Personal Department"
+                    - option "Support Department"
+                    - option "Others"
+                - paragraph [ref=f7e369]:
+                  - textbox "Your Message" [ref=f7e371]
+                - paragraph [ref=f7e372]:
+                  - button "Send Message" [ref=f7e373] [cursor=pointer]
+    - contentinfo [ref=f7e374]:
+      - generic [ref=f7e377]:
+        - generic [ref=f7e379]:
+          - img "Logo" [ref=f7e380]
+          - generic [ref=f7e381]: Contact us today and we’ll help you get started. Most people start with an About page that introduces them to potential site visitors.
+        - generic [ref=f7e383]:
+          - textbox "Enter your email ..." [ref=f7e385]
+          - button " Join Now" [ref=f7e386] [cursor=pointer]:
+            - generic [ref=f7e387]: 
+            - text: Join Now
+        - generic [ref=f7e389]:
+          - button "Facebook" [ref=f7e390] [cursor=pointer]:
+            - generic [ref=f7e391]: 
+          - button "Twitter" [ref=f7e392] [cursor=pointer]:
+            - generic [ref=f7e393]: 
+          - button "Instagram" [ref=f7e394] [cursor=pointer]:
+            - generic [ref=f7e395]: 
+          - button "Pinterest" [ref=f7e396] [cursor=pointer]:
+            - generic [ref=f7e397]: 
+      - generic [ref=f7e398]: Copyright © 2026 Xtra Theme. All Rights Reserved.
+  - text: 
+  - generic [ref=f7e406]:
+    - link [ref=f7e407] [cursor=pointer]:
+      - /url: https://1.envato.market/xtratheme
+      - img "Buy and Download XTRA Theme" [ref=f7e408]
+    - link [ref=f7e409] [cursor=pointer]:
+      - /url: https://xtratheme.com/docs
+      - img "Xtra Theme Documentation" [ref=f7e410]
+    - link [ref=f7e411] [cursor=pointer]:
+      - /url: https://youtube.com/channel/UCrS1L4oeTRfU1hvIo1gJGjg/videos
+      - img "Xtra Theme Videos Tutorials" [ref=f7e412]
+    - link [ref=f7e413] [cursor=pointer]:
+      - /url: https://codevz.ticksy.com/
+      - img "Xtra Theme Support Center" [ref=f7e414]
+    - link [ref=f7e415] [cursor=pointer]:
+      - /url: https://xtratheme.com/showcase
+      - img "Xtra Theme Showcase" [ref=f7e416]

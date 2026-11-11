@@ -1,0 +1,145 @@
+- generic [ref=f41e2]:
+  - banner [ref=f41e3]:
+    - generic [ref=f41e4]:
+      - link "XTRA Beauty — Home" [ref=f41e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f41e6]
+      - navigation [ref=f41e7]:
+        - link "Home" [ref=f41e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f41e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f41e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f41e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f41e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f41e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f41e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f41e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f41e19]:
+    - generic [ref=f41e23]:
+      - heading "Shop" [level=1] [ref=f41e24]
+      - navigation [ref=f41e25]:
+        - link "Home" [ref=f41e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f41e27]: /
+        - generic [ref=f41e28]: Products
+    - generic [ref=f41e30]:
+      - generic [ref=f41e31]: Hot Sale — 20% Off · Free shipping over $50 · Hot Sale — 20% Off · Free shipping over $50 ·
+      - generic [ref=f41e32]: Hot Sale — 20% Off · Free shipping over $50 · Hot Sale — 20% Off · Free shipping over $50 ·
+      - generic [ref=f41e33]: Hot Sale — 20% Off · Free shipping over $50 · Hot Sale — 20% Off · Free shipping over $50 ·
+      - generic [ref=f41e34]: Hot Sale — 20% Off · Free shipping over $50 · Hot Sale — 20% Off · Free shipping over $50 ·
+      - generic [ref=f41e35]: Hot Sale — 20% Off · Free shipping over $50 · Hot Sale — 20% Off · Free shipping over $50 ·
+      - generic [ref=f41e36]: Hot Sale — 20% Off · Free shipping over $50 · Hot Sale — 20% Off · Free shipping over $50 ·
+      - generic [ref=f41e37]: Hot Sale — 20% Off · Free shipping over $50 · Hot Sale — 20% Off · Free shipping over $50 ·
+      - generic [ref=f41e38]: Hot Sale — 20% Off · Free shipping over $50 · Hot Sale — 20% Off · Free shipping over $50 ·
+    - generic [ref=f41e40]:
+      - generic [ref=f41e42]:
+        - generic [aria-hidden]: PRODUCTS
+        - heading "Our Shop" [level=2] [ref=f41e45]
+      - generic [ref=f41e47]:
+        - generic [ref=f41e48]:
+          - button "All Products" [ref=f41e49]
+          - button "Creams" [ref=f41e50]
+          - button "Powder" [ref=f41e51]
+          - button "Premium Sets" [ref=f41e52]
+          - button "Nail Polish" [ref=f41e53]
+        - generic [ref=f41e54]:
+          - generic [ref=f41e55]: Showing 8 of 8 results
+          - combobox "Sort products" [ref=f41e56]:
+            - option "Sort by latest" [selected]
+            - option "Price low to high"
+            - option "Price high to low"
+            - option "Alphabetically, A-Z"
+          - generic [ref=f41e57]:
+            - text: Cart
+            - generic [ref=f41e60]: "0"
+      - generic [ref=f41e61]:
+        - article [ref=f41e63]:
+          - generic [ref=f41e64]:
+            - img "Beauty Cream" [ref=f41e65]
+            - generic [ref=f41e66]: Exclusive
+            - button "Add to cart" [ref=f41e67]
+          - generic [ref=f41e68]:
+            - heading "Beauty Cream" [level=3] [ref=f41e69]
+            - paragraph [ref=f41e70]: $30.00
+        - article [ref=f41e72]:
+          - generic [ref=f41e73]:
+            - img "Premium Set" [ref=f41e74]
+            - generic [ref=f41e75]: New Arrival
+            - button "Add to cart" [ref=f41e76]
+          - generic [ref=f41e77]:
+            - heading "Premium Set" [level=3] [ref=f41e78]
+            - paragraph [ref=f41e79]: $45.00
+        - article [ref=f41e81]:
+          - generic [ref=f41e82]:
+            - img "Face Powder" [ref=f41e83]
+            - generic [ref=f41e84]: Sale! -20%
+            - button "Add to cart" [ref=f41e85]
+          - generic [ref=f41e86]:
+            - heading "Face Powder" [level=3] [ref=f41e87]
+            - paragraph [ref=f41e88]: $27.50$22.00
+        - article [ref=f41e90]:
+          - generic [ref=f41e91]:
+            - img "Care Lotion" [ref=f41e92]
+            - button "Add to cart" [ref=f41e93]
+          - generic [ref=f41e94]:
+            - heading "Care Lotion" [level=3] [ref=f41e95]
+            - paragraph [ref=f41e96]: $38.00
+        - article [ref=f41e98]:
+          - generic [ref=f41e99]:
+            - img "Beauty Oil" [ref=f41e100]
+            - generic [ref=f41e101]: Sale!
+            - button "Add to cart" [ref=f41e102]
+          - generic [ref=f41e103]:
+            - heading "Beauty Oil" [level=3] [ref=f41e104]
+            - paragraph [ref=f41e105]: $26.00
+        - article [ref=f41e107]:
+          - generic [ref=f41e108]:
+            - img "Nail Polish Set" [ref=f41e109]
+            - button "Add to cart" [ref=f41e110]
+          - generic [ref=f41e111]:
+            - heading "Nail Polish Set" [level=3] [ref=f41e112]
+            - paragraph [ref=f41e113]: $19.00
+        - article [ref=f41e115]:
+          - generic [ref=f41e116]:
+            - img "Serum Booster" [ref=f41e117]
+            - button "Add to cart" [ref=f41e118]
+          - generic [ref=f41e119]:
+            - heading "Serum Booster" [level=3] [ref=f41e120]
+            - paragraph [ref=f41e121]: $52.00
+        - article [ref=f41e123]:
+          - generic [ref=f41e124]:
+            - img "Spa Package" [ref=f41e125]
+            - generic [ref=f41e126]: Hot
+            - button "Add to cart" [ref=f41e127]
+          - generic [ref=f41e128]:
+            - heading "Spa Package" [level=3] [ref=f41e129]
+            - paragraph [ref=f41e130]: $64.00
+    - status
+  - contentinfo [ref=f41e131]:
+    - generic [ref=f41e133]:
+      - link [ref=f41e134] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f41e135]
+      - paragraph [ref=f41e136]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f41e137]:
+        - textbox "Email address" [ref=f41e138]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f41e139]
+      - generic [ref=f41e142]:
+        - link "Facebook" [ref=f41e143] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f41e146] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f41e149] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f41e152] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f41e156]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top"

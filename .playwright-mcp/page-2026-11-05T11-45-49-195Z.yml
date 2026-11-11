@@ -1,0 +1,317 @@
+- generic [active] [ref=f20e1]:
+  - generic [ref=f20e2]:
+    - link [ref=f20e3] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+      - img "XTRA WordPress Theme on Envato Market" [ref=f20e4]
+    - strong [ref=f20e5]:
+      - text: Limited time offer, Buy XTRA WordPress theme only
+      - strong [ref=f20e6]: $39
+    - link "Download XTRA Theme" [ref=f20e7] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+  - generic [ref=f20e9]:
+    - banner [ref=f20e10]:
+      - generic [ref=f20e13]:
+        - link [ref=f20e16] [cursor=pointer]:
+          - /url: https://xtratheme.com/beauty-salon/
+          - img "Beauty Salon WordPress Theme" [ref=f20e17]
+        - generic [ref=f20e18]:
+          - link "Book Now" [ref=f20e20] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/make-an-appointment/
+          - generic [ref=f20e21]:
+            - text: 
+            - list [ref=f20e22]:
+              - listitem [ref=f20e23]:
+                - link "Home" [ref=f20e24] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/
+              - listitem [ref=f20e25]:
+                - link "About" [ref=f20e26] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/about/
+                - text: 
+              - listitem [ref=f20e27]:
+                - link "Gallery" [ref=f20e28] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/gallery/
+              - listitem [ref=f20e29]:
+                - link "FAQ" [ref=f20e30] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/faq/
+              - listitem [ref=f20e31]:
+                - link "Blog" [ref=f20e32] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/blog/
+              - listitem [ref=f20e33]:
+                - link "Shop" [ref=f20e34] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/shop/
+              - listitem [ref=f20e35]:
+                - link "Contact" [ref=f20e36] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/contact/
+            - text: 
+      - text:          
+    - generic [ref=f20e41]:
+      - link [ref=f20e43] [cursor=pointer]:
+        - /url: https://xtratheme.com/beauty-salon/
+        - generic [aria-hidden] [ref=f20e44]: 
+      - generic [aria-hidden] [ref=f20e45]: 
+      - generic [ref=f20e46]:
+        - link "Products":
+          - /url: https://xtratheme.com/beauty-salon/shop/
+    - main [ref=f20e47]:
+      - generic [ref=f20e50]:
+        - heading "Shop" [level=2] [ref=f20e51]
+        - status [ref=f20e52]: Showing 1–6 of 8 results
+        - combobox "Shop order" [ref=f20e54]:
+          - option "Default" [selected]
+          - option "Popular"
+          - option "Featured"
+          - option "Top Rated"
+          - option "Relevance"
+          - option "Sort by latest"
+          - option "Sort by oldest"
+          - option "Price low to high"
+          - option "Price high to low"
+          - option "Highest Discount"
+          - option "Lowest Discount"
+          - option "Alphabetically, A-Z"
+          - option "Alphabetically, Z-A"
+        - combobox [ref=f20e56]:
+          - option "6 Products" [selected]
+          - option "16 Products"
+          - option "32 Products"
+          - option "48 Products"
+          - option "64 Products"
+          - option "128 Products"
+        - generic [ref=f20e57]:
+          - generic [ref=f20e58] [cursor=pointer]
+          - generic [ref=f20e65] [cursor=pointer]
+          - generic [ref=f20e74] [cursor=pointer]
+        - generic [ref=f20e87]:
+          - link " All Products 8 Items" [ref=f20e88] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/shop/
+            - generic [ref=f20e89]: 
+            - generic [ref=f20e91]:
+              - strong [ref=f20e92]: All Products
+              - generic [ref=f20e93]: 8 Items
+          - link " New Arrival 7 Items" [ref=f20e94] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/product-category/new-arrival/
+            - generic [ref=f20e95]: 
+            - generic [ref=f20e97]:
+              - strong [ref=f20e98]: New Arrival
+              - generic [ref=f20e99]: 7 Items
+          - link " Powder 4 Items" [ref=f20e100] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/product-category/powder/
+            - generic [ref=f20e101]: 
+            - generic [ref=f20e103]:
+              - strong [ref=f20e104]: Powder
+              - generic [ref=f20e105]: 4 Items
+          - link " Premium Sets 3 Items" [ref=f20e106] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/product-category/sets/
+            - generic [ref=f20e107]: 
+            - generic [ref=f20e109]:
+              - strong [ref=f20e110]: Premium Sets
+              - generic [ref=f20e111]: 3 Items
+          - link " Creams 3 Items" [ref=f20e112] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/product-category/creams/
+            - generic [ref=f20e113]: 
+            - generic [ref=f20e115]:
+              - strong [ref=f20e116]: Creams
+              - generic [ref=f20e117]: 3 Items
+          - link " Limited Edition 3 Items" [ref=f20e118] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/product-category/limited-edition/
+            - generic [ref=f20e119]: 
+            - generic [ref=f20e121]:
+              - strong [ref=f20e122]: Limited Edition
+              - generic [ref=f20e123]: 3 Items
+          - link " Exclusive 3 Items" [ref=f20e124] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/product-category/exclusive/
+            - generic [ref=f20e125]: 
+            - generic [ref=f20e127]:
+              - strong [ref=f20e128]: Exclusive
+              - generic [ref=f20e129]: 3 Items
+          - link " Nail Polish 1 Items" [ref=f20e130] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/product-category/nail-polish/
+            - generic [ref=f20e131]: 
+            - generic [ref=f20e133]:
+              - strong [ref=f20e134]: Nail Polish
+              - generic [ref=f20e135]: 1 Items
+        - list [ref=f20e136]:
+          - listitem [ref=f20e137]:
+            - link "   Beauty Creame Package3 Beauty Creame Exclusive $35" [ref=f20e138] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/product/beauty-creame/
+              - generic [ref=f20e139]:
+                - generic [ref=f20e140]:
+                  - generic [ref=f20e141]: 
+                  - generic [ref=f20e142]: 
+                  - generic [ref=f20e143]: 
+                - generic [ref=f20e144]:
+                  - img "Beauty Creame" [ref=f20e146]
+                  - generic [ref=f20e147]:
+                    - img "Package3"
+              - heading "Beauty Creame Exclusive" [level=3] [ref=f20e148]:
+                - text: Beauty Creame
+                - generic [ref=f20e149]: Exclusive
+              - text: sssss SSSSS
+              - generic [ref=f20e150]: $35
+            - 'button "Add to cart: “Beauty Creame”" [ref=f20e153] [cursor=pointer]': Add to cart
+          - listitem [ref=f20e154]:
+            - link "   Face Brush Package5 HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ Face Brush Nail Polish Sale! 20%" [ref=f20e155] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/product/face-brush/
+              - generic [ref=f20e156]:
+                - generic [ref=f20e157]:
+                  - generic [ref=f20e158]: 
+                  - generic [ref=f20e159]: 
+                  - generic [ref=f20e160]: 
+                - generic [ref=f20e161]:
+                  - img "Face Brush" [ref=f20e163]
+                  - generic [ref=f20e164]:
+                    - img "Package5"
+                - generic [ref=f20e166]:
+                  - generic [ref=f20e167]:
+                    - text: HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡
+                    - generic [ref=f20e168]: HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡
+                  - generic [ref=f20e169]:
+                    - text: HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡
+                    - generic [ref=f20e170]: HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡ HOT SALE 20% OFF ⚡
+              - heading "Face Brush Nail Polish" [level=3] [ref=f20e171]:
+                - text: Face Brush
+                - generic [ref=f20e172]: Nail Polish
+              - text: sssss SSSSS
+              - generic [ref=f20e173]:
+                - deletion [aria-hidden] [ref=f20e174]:
+                  - generic [ref=f20e175]: $15
+                - insertion [aria-hidden] [ref=f20e177]:
+                  - generic [ref=f20e178]: $12
+              - generic [ref=f20e180]: Sale!
+              - generic [ref=f20e181]: 20%
+            - 'button "Add to cart: “Face Brush”" [ref=f20e182] [cursor=pointer]': Add to cart
+          - listitem [ref=f20e183]:
+            - link "   Gold Powder Foundation Pr5 2 Gold Powder Foundation New Arrival $35" [ref=f20e184] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/product/gold-powder-foundation/
+              - generic [ref=f20e185]:
+                - generic [ref=f20e186]:
+                  - generic [ref=f20e187]: 
+                  - generic [ref=f20e188]: 
+                  - generic [ref=f20e189]: 
+                - generic [ref=f20e190]:
+                  - img "Gold Powder Foundation" [ref=f20e192]
+                  - generic [ref=f20e193]:
+                    - img "Pr5 2"
+              - heading "Gold Powder Foundation New Arrival" [level=3] [ref=f20e194]:
+                - text: Gold Powder Foundation
+                - generic [ref=f20e195]: New Arrival
+              - text: sssss SSSSS
+              - generic [ref=f20e196]: $35
+            - 'button "Add to cart: “Gold Powder Foundation”" [ref=f20e199] [cursor=pointer]': Add to cart
+          - listitem [ref=f20e200]:
+            - link "   Nail Polish Pr7 2 Nail Polish New Arrival $35" [ref=f20e201] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/product/nail-polish/
+              - generic [ref=f20e202]:
+                - generic [ref=f20e203]:
+                  - generic [ref=f20e204]: 
+                  - generic [ref=f20e205]: 
+                  - generic [ref=f20e206]: 
+                - generic [ref=f20e207]:
+                  - img "Nail Polish" [ref=f20e209]
+                  - generic [ref=f20e210]:
+                    - img "Pr7 2"
+              - heading "Nail Polish New Arrival" [level=3] [ref=f20e211]:
+                - text: Nail Polish
+                - generic [ref=f20e212]: New Arrival
+              - text: sssss SSSSS
+              - generic [ref=f20e213]: $35
+            - 'button "Add to cart: “Nail Polish”" [ref=f20e216] [cursor=pointer]': Add to cart
+          - listitem [ref=f20e217]:
+            - link "   Pro Package Powder Pr3 2 Pro Package Powder Creams $18" [ref=f20e218] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/product/pro-package-powder/
+              - generic [ref=f20e219]:
+                - generic [ref=f20e220]:
+                  - generic [ref=f20e221]: 
+                  - generic [ref=f20e222]: 
+                  - generic [ref=f20e223]: 
+                - generic [ref=f20e224]:
+                  - img "Pro Package Powder" [ref=f20e226]
+                  - generic [ref=f20e227]:
+                    - img "Pr3 2"
+              - heading "Pro Package Powder Creams" [level=3] [ref=f20e228]:
+                - text: Pro Package Powder
+                - generic [ref=f20e229]: Creams
+              - text: sssss SSSSS
+              - generic [ref=f20e230]: $18
+            - 'button "Add to cart: “Pro Package Powder”" [ref=f20e233] [cursor=pointer]': Add to cart
+          - listitem [ref=f20e234]:
+            - link "   Product 2 Package5 Product 2 Exclusive" [ref=f20e235] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/product/product-2/
+              - generic [ref=f20e236]:
+                - generic [ref=f20e237]:
+                  - generic [ref=f20e238]: 
+                  - generic [ref=f20e239]: 
+                  - generic [ref=f20e240]: 
+                - generic [ref=f20e241]:
+                  - img "Product 2" [ref=f20e243]
+                  - generic [ref=f20e244]:
+                    - img "Package5"
+              - heading "Product 2 Exclusive" [level=3] [ref=f20e245]:
+                - text: Product 2
+                - generic [ref=f20e246]: Exclusive
+              - text: sssss SSSSS
+            - link "Select options for “Product 2”" [ref=f20e247] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/product/product-2/
+              - text: Read more
+        - generic: 
+        - generic [ref=f20e248]:
+          - generic [ref=f20e249]: 
+          - generic:
+            - text: "\""
+            - strong
+            - text: "\" has been added to your cart."
+            - link "View cart" [ref=f20e250] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/cart/
+        - generic: 
+        - navigation "Product Pagination" [ref=f20e251]:
+          - list [ref=f20e252]:
+            - listitem [ref=f20e253]:
+              - generic "Page 1" [ref=f20e254]: "1"
+            - listitem [ref=f20e255]:
+              - link "Page 2" [ref=f20e256] [cursor=pointer]:
+                - /url: https://xtratheme.com/beauty-salon/shop/page/2/
+                - text: "2"
+            - listitem [ref=f20e257]:
+              - link "→" [ref=f20e258] [cursor=pointer]:
+                - /url: https://xtratheme.com/beauty-salon/shop/page/2/
+    - contentinfo [ref=f20e259]:
+      - generic [ref=f20e262]:
+        - generic [ref=f20e264]:
+          - img "Logo" [ref=f20e265]
+          - generic [ref=f20e266]: Contact us today and we’ll help you get started. Most people start with an About page that introduces them to potential site visitors.
+        - generic [ref=f20e268]:
+          - textbox "Enter your email ..." [ref=f20e270]
+          - button " Join Now" [ref=f20e271] [cursor=pointer]:
+            - generic [ref=f20e272]: 
+            - text: Join Now
+        - generic [ref=f20e274]:
+          - button "Facebook" [ref=f20e275] [cursor=pointer]:
+            - generic [ref=f20e276]: 
+          - button "Twitter" [ref=f20e277] [cursor=pointer]:
+            - generic [ref=f20e278]: 
+          - button "Instagram" [ref=f20e279] [cursor=pointer]:
+            - generic [ref=f20e280]: 
+          - button "Pinterest" [ref=f20e281] [cursor=pointer]:
+            - generic [ref=f20e282]: 
+      - generic [ref=f20e283]: Copyright © 2026 Xtra Theme. All Rights Reserved.
+  - text: 
+  - generic [ref=f20e291]:
+    - generic [ref=f20e294]: This website uses cookies to improve user experience.
+    - button "Allow and close cookie notice" [ref=f20e295] [cursor=pointer]: Accept and close
+  - generic [ref=f20e296]:
+    - link [ref=f20e297] [cursor=pointer]:
+      - /url: https://1.envato.market/xtratheme
+      - img "Buy and Download XTRA Theme" [ref=f20e298]
+    - link [ref=f20e299] [cursor=pointer]:
+      - /url: https://xtratheme.com/docs
+      - img "Xtra Theme Documentation" [ref=f20e300]
+    - link [ref=f20e301] [cursor=pointer]:
+      - /url: https://youtube.com/channel/UCrS1L4oeTRfU1hvIo1gJGjg/videos
+      - img "Xtra Theme Videos Tutorials" [ref=f20e302]
+    - link [ref=f20e303] [cursor=pointer]:
+      - /url: https://codevz.ticksy.com/
+      - img "Xtra Theme Support Center" [ref=f20e304]
+    - link [ref=f20e305] [cursor=pointer]:
+      - /url: https://xtratheme.com/showcase
+      - img "Xtra Theme Showcase" [ref=f20e306]
+  - text:   

@@ -1,0 +1,185 @@
+- generic [ref=f24e2]:
+  - banner [ref=f24e3]:
+    - generic [ref=f24e4]:
+      - link "XTRA Beauty — Home" [ref=f24e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f24e6]
+      - navigation [ref=f24e7]:
+        - link "Home" [ref=f24e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f24e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f24e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f24e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f24e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f24e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f24e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f24e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f24e19]:
+    - generic [ref=f24e20]:
+      - generic [ref=f24e240]:
+        - paragraph [ref=f24e241]: Welcome to Xtra Beauty
+        - heading "Special Color for You" [level=1] [ref=f24e242]
+        - paragraph [ref=f24e243]: Hair, skin and makeup treatments tailored to you.
+        - generic [ref=f24e244]:
+          - link "View Our Gallery" [ref=f24e245] [cursor=pointer]:
+            - /url: /gallery
+          - link "Book Now" [ref=f24e246] [cursor=pointer]:
+            - /url: /make-an-appointment
+      - generic [ref=f24e32]:
+        - button "Go to slide 1" [ref=f24e33]
+        - button "Go to slide 2" [ref=f24e34]
+    - generic [ref=f24e40]:
+      - paragraph [ref=f24e41]: Lovely Beauty Luxury
+      - heading "Our Beauty Center" [level=2] [ref=f24e42]
+      - link "View Gallery" [ref=f24e43] [cursor=pointer]:
+        - /url: /gallery
+    - generic [ref=f24e46]:
+      - generic [ref=f24e47]:
+        - generic [aria-hidden]: ABOUT US
+        - heading "Our History" [level=2] [ref=f24e50]
+      - paragraph [ref=f24e52]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+      - link "About Us" [ref=f24e53] [cursor=pointer]:
+        - /url: /about
+    - generic [ref=f24e55]:
+      - generic [ref=f24e57]:
+        - generic [aria-hidden]: SERVICES
+        - heading "Our Services" [level=2] [ref=f24e60]
+      - generic [ref=f24e62]:
+        - article [ref=f24e64]:
+          - generic [ref=f24e66]:
+            - heading "Haircut" [level=3] [ref=f24e67]
+            - paragraph [ref=f24e68]: From $20
+            - link "Reserve" [ref=f24e69] [cursor=pointer]:
+              - /url: /make-an-appointment
+        - article [ref=f24e71]:
+          - generic [ref=f24e73]:
+            - heading "Skin Care" [level=3] [ref=f24e74]
+            - paragraph [ref=f24e75]: From $50
+            - link "Reserve" [ref=f24e76] [cursor=pointer]:
+              - /url: /make-an-appointment
+        - article [ref=f24e78]:
+          - generic [ref=f24e80]:
+            - heading "Makeup" [level=3] [ref=f24e81]
+            - paragraph [ref=f24e82]: From $40
+            - link "Reserve" [ref=f24e83] [cursor=pointer]:
+              - /url: /make-an-appointment
+    - generic [ref=f24e84]:
+      - img "Beauty treatment close-up" [ref=f24e85]
+      - generic [ref=f24e87]:
+        - generic [ref=f24e88]:
+          - generic [aria-hidden]: CLUB
+          - heading "Our Beauty Center" [level=2] [ref=f24e91]
+        - paragraph [ref=f24e93]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+        - generic [ref=f24e94]:
+          - link "Facebook" [ref=f24e95] [cursor=pointer]:
+            - /url: "#"
+          - link "Twitter" [ref=f24e98] [cursor=pointer]:
+            - /url: "#"
+          - link "Instagram" [ref=f24e101] [cursor=pointer]:
+            - /url: "#"
+          - link "Skype" [ref=f24e104] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=f24e107]:
+      - generic [ref=f24e109]:
+        - generic [ref=f24e110]:
+          - generic [aria-hidden]: DISCOUNT
+          - heading "Special Offer" [level=2] [ref=f24e113]
+        - paragraph [ref=f24e115]: 20% Off on all beauty services, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women.
+        - generic [ref=f24e116]:
+          - generic [ref=f24e117]:
+            - generic [ref=f24e118]: "06"
+            - generic [ref=f24e119]: Days
+          - generic [ref=f24e120]:
+            - generic [ref=f24e121]: "20"
+            - generic [ref=f24e122]: Hours
+          - generic [ref=f24e123]:
+            - generic [ref=f24e124]: "07"
+            - generic [ref=f24e125]: Minutes
+          - generic [ref=f24e126]:
+            - generic [ref=f24e127]: "08"
+            - generic [ref=f24e128]: Seconds
+        - link "Book Now" [ref=f24e129] [cursor=pointer]:
+          - /url: /make-an-appointment
+      - img "Model with beauty sponge" [ref=f24e132]
+    - generic [ref=f24e133]:
+      - img "Portrait with red lipstick" [ref=f24e134]
+      - generic [ref=f24e136]:
+        - generic [ref=f24e137]:
+          - generic [aria-hidden]: BEAUTY
+          - heading "Our Gallery" [level=2] [ref=f24e140]
+        - paragraph [ref=f24e142]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+        - link "View Gallery" [ref=f24e143] [cursor=pointer]:
+          - /url: /gallery
+    - generic [ref=f24e147]:
+      - generic [ref=f24e149]:
+        - generic [aria-hidden]: BEAUTY
+        - heading "Gallery" [level=2] [ref=f24e152]
+      - generic [ref=f24e154]:
+        - generic [ref=f24e155]:
+          - 'button "Open image: Facial treatment with beauty sponge" [ref=f24e156]':
+            - img "Facial treatment with beauty sponge" [ref=f24e157]
+          - 'button "Open image: Studio portrait with red lips" [ref=f24e162]':
+            - img "Studio portrait with red lips" [ref=f24e163]
+        - generic [ref=f24e168]:
+          - 'button "Open image: Blonde model with flowing hair" [ref=f24e169]':
+            - img "Blonde model with flowing hair" [ref=f24e170]
+          - 'button "Open image: Lipstick application in profile" [ref=f24e175]':
+            - img "Lipstick application in profile" [ref=f24e176]
+        - generic [ref=f24e181]:
+          - 'button "Open image: Makeup brush application" [ref=f24e182]':
+            - img "Makeup brush application" [ref=f24e183]
+          - 'button "Open image: Lip liner detail" [ref=f24e188]':
+            - img "Lip liner detail" [ref=f24e189]
+      - link "Make an Appointment" [ref=f24e195] [cursor=pointer]:
+        - /url: /make-an-appointment
+    - generic [ref=f24e196]:
+      - generic [ref=f24e197]:
+        - img "Salon location map" [ref=f24e198]
+        - generic [ref=f24e199]: No23. Some Ave, Your City Name, NY 90025
+      - generic [ref=f24e200]:
+        - generic [ref=f24e201]:
+          - generic [aria-hidden]: CONTACT
+          - heading "Get in Touch" [level=2] [ref=f24e204]
+        - generic [ref=f24e206]:
+          - textbox "Your name" [ref=f24e207]:
+            - /placeholder: Your Name (*)
+          - textbox "Your email" [ref=f24e208]:
+            - /placeholder: Your Email (*)
+          - textbox "Subject" [ref=f24e209]
+          - combobox "Department" [ref=f24e210]:
+            - option "Business Department" [disabled] [selected]
+            - option "Reception"
+            - option "Hair Styling"
+            - option "Skin Care"
+            - option "Makeup"
+          - textbox "Your message" [ref=f24e211]:
+            - /placeholder: Your Message
+          - button "Send Message" [ref=f24e213]
+  - contentinfo [ref=f24e214]:
+    - generic [ref=f24e216]:
+      - link [ref=f24e217] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f24e218]
+      - paragraph [ref=f24e219]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f24e220]:
+        - textbox "Email address" [ref=f24e221]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f24e222]
+      - generic [ref=f24e225]:
+        - link "Facebook" [ref=f24e226] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f24e229] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f24e232] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f24e235] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f24e239]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top" [ref=f24e247]

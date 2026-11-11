@@ -1,0 +1,285 @@
+- generic [active] [ref=f19e1]:
+  - generic [ref=f19e2]:
+    - link [ref=f19e3] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+      - img "XTRA WordPress Theme on Envato Market" [ref=f19e4]
+    - strong [ref=f19e5]:
+      - text: Limited time offer, Buy XTRA WordPress theme only
+      - strong [ref=f19e6]: $39
+    - link "Download XTRA Theme" [ref=f19e7] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+  - generic [ref=f19e9]:
+    - banner [ref=f19e10]:
+      - generic [ref=f19e13]:
+        - link [ref=f19e16] [cursor=pointer]:
+          - /url: https://xtratheme.com/beauty-salon/
+          - img "Beauty Salon WordPress Theme" [ref=f19e17]
+        - generic [ref=f19e18]:
+          - link "Book Now" [ref=f19e20] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/make-an-appointment/
+          - generic [ref=f19e21]:
+            - text: 
+            - list [ref=f19e22]:
+              - listitem [ref=f19e23]:
+                - link "Home" [ref=f19e24] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/
+              - listitem [ref=f19e25]:
+                - link "About" [ref=f19e26] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/about/
+                - text: 
+              - listitem [ref=f19e27]:
+                - link "Gallery" [ref=f19e28] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/gallery/
+              - listitem [ref=f19e29]:
+                - link "FAQ" [ref=f19e30] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/faq/
+              - listitem [ref=f19e31]:
+                - link "Blog" [ref=f19e32] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/blog/
+              - listitem [ref=f19e33]:
+                - link "Shop" [ref=f19e34] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/shop/
+              - listitem [ref=f19e35]:
+                - link "Contact" [ref=f19e36] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/contact/
+              - text: 
+            - text: 
+      - text:          
+    - generic [ref=f19e41]:
+      - link [ref=f19e43] [cursor=pointer]:
+        - /url: https://xtratheme.com/beauty-salon/
+        - generic [aria-hidden] [ref=f19e44]: 
+      - generic [aria-hidden] [ref=f19e45]: 
+      - generic [ref=f19e46]:
+        - link "Blog":
+          - /url: https://xtratheme.com/beauty-salon/blog/
+    - main [ref=f19e47]:
+      - generic [ref=f19e48]:
+        - generic [ref=f19e50]:
+          - generic [ref=f19e52]:
+            - link " All Posts 6 Items" [ref=f19e53] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/blog/
+              - generic [ref=f19e54]: 
+              - generic [ref=f19e56]:
+                - strong [ref=f19e57]: All Posts
+                - generic [ref=f19e58]: 6 Items
+            - link " News 4 Items" [ref=f19e59] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/category/news/
+              - generic [ref=f19e60]: 
+              - generic [ref=f19e62]:
+                - strong [ref=f19e63]: News
+                - generic [ref=f19e64]: 4 Items
+            - link " How to? 3 Items" [ref=f19e65] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/category/how-to/
+              - generic [ref=f19e66]: 
+              - generic [ref=f19e68]:
+                - strong [ref=f19e69]: How to?
+                - generic [ref=f19e70]: 3 Items
+            - link " Beauty Blog 2 Items" [ref=f19e71] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/category/beauty-blog/
+              - generic [ref=f19e72]: 
+              - generic [ref=f19e74]:
+                - strong [ref=f19e75]: Beauty Blog
+                - generic [ref=f19e76]: 2 Items
+            - link " Hair Cut Tips 1 Items" [ref=f19e77] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/category/hair-cut-tips/
+              - generic [ref=f19e78]: 
+              - generic [ref=f19e80]:
+                - strong [ref=f19e81]: Hair Cut Tips
+                - generic [ref=f19e82]: 1 Items
+            - link " Modeling 1 Items" [ref=f19e83] [cursor=pointer]:
+              - /url: https://xtratheme.com/beauty-salon/category/modeling/
+              - generic [ref=f19e84]: 
+              - generic [ref=f19e86]:
+                - strong [ref=f19e87]: Modeling
+                - generic [ref=f19e88]: 1 Items
+          - generic [ref=f19e90]:
+            - article [ref=f19e91]:
+              - generic [ref=f19e92]:
+                - link [ref=f19e93] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/2024/06/10/a-place-of-silence/
+                  - img "Img6 360x320" [ref=f19e94]
+                  - generic [aria-hidden] [ref=f19e95]: 
+                - generic [ref=f19e96]:
+                  - link [ref=f19e97] [cursor=pointer]:
+                    - /url: https://xtratheme.com/beauty-salon/2024/06/10/a-place-of-silence/
+                    - heading "A Place of Silence" [level=3] [ref=f19e98]
+                  - generic [ref=f19e99]:
+                    - link:
+                      - /url: https://xtratheme.com/beauty-salon/author/admin/
+                    - time [ref=f19e102]: 10 June 2024
+                  - generic [ref=f19e103]:
+                    - text: Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta ...
+                    - link "Read More" [ref=f19e104] [cursor=pointer]:
+                      - /url: https://xtratheme.com/beauty-salon/2024/06/10/a-place-of-silence/
+                      - generic [aria-hidden] [ref=f19e105]: 
+            - article [ref=f19e107]:
+              - generic [ref=f19e108]:
+                - link [ref=f19e109] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/2024/06/10/how-to-makeup/
+                  - img "Img9 1 360x320" [ref=f19e110]
+                  - generic [aria-hidden] [ref=f19e111]: 
+                - generic [ref=f19e112]:
+                  - link [ref=f19e113] [cursor=pointer]:
+                    - /url: https://xtratheme.com/beauty-salon/2024/06/10/how-to-makeup/
+                    - heading "How to Makeup" [level=3] [ref=f19e114]
+                  - generic [ref=f19e115]:
+                    - link:
+                      - /url: https://xtratheme.com/beauty-salon/author/admin/
+                    - time [ref=f19e118]: 10 June 2024
+                  - generic [ref=f19e119]:
+                    - text: Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta ...
+                    - link "Read More" [ref=f19e120] [cursor=pointer]:
+                      - /url: https://xtratheme.com/beauty-salon/2024/06/10/how-to-makeup/
+                      - generic [aria-hidden] [ref=f19e121]: 
+            - article [ref=f19e123]:
+              - generic [ref=f19e124]:
+                - link [ref=f19e125] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/2024/06/10/principles-of-coldness/
+                  - img "Img7 360x320" [ref=f19e126]
+                  - generic [aria-hidden] [ref=f19e127]: 
+                - generic [ref=f19e128]:
+                  - link [ref=f19e129] [cursor=pointer]:
+                    - /url: https://xtratheme.com/beauty-salon/2024/06/10/principles-of-coldness/
+                    - heading "Principles of Coldness" [level=3] [ref=f19e130]
+                  - generic [ref=f19e131]:
+                    - link:
+                      - /url: https://xtratheme.com/beauty-salon/author/admin/
+                    - time [ref=f19e134]: 10 June 2024
+                  - generic [ref=f19e135]:
+                    - text: Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta ...
+                    - link "Read More" [ref=f19e136] [cursor=pointer]:
+                      - /url: https://xtratheme.com/beauty-salon/2024/06/10/principles-of-coldness/
+                      - generic [aria-hidden] [ref=f19e137]: 
+            - article [ref=f19e139]:
+              - generic [ref=f19e140]:
+                - link [ref=f19e141] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/2024/06/10/much-space-in-world/
+                  - img "Img4 360x320" [ref=f19e142]
+                  - generic [aria-hidden] [ref=f19e143]: 
+                - generic [ref=f19e144]:
+                  - link [ref=f19e145] [cursor=pointer]:
+                    - /url: https://xtratheme.com/beauty-salon/2024/06/10/much-space-in-world/
+                    - heading "Much Space in World" [level=3] [ref=f19e146]
+                  - generic [ref=f19e147]:
+                    - link:
+                      - /url: https://xtratheme.com/beauty-salon/author/admin/
+                    - time [ref=f19e150]: 10 June 2024
+                  - generic [ref=f19e151]:
+                    - text: Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta ...
+                    - link "Read More" [ref=f19e152] [cursor=pointer]:
+                      - /url: https://xtratheme.com/beauty-salon/2024/06/10/much-space-in-world/
+                      - generic [aria-hidden] [ref=f19e153]: 
+          - navigation "Posts pagination" [ref=f19e156]:
+            - generic [ref=f19e157]:
+              - generic "Page 1" [ref=f19e158]: "1"
+              - link "Page 2" [ref=f19e159] [cursor=pointer]:
+                - /url: https://xtratheme.com/beauty-salon/blog/page/2/
+                - text: "2"
+              - link [ref=f19e160] [cursor=pointer]:
+                - /url: https://xtratheme.com/beauty-salon/blog/page/2/
+                - generic [aria-hidden] [ref=f19e161]: 
+        - complementary [ref=f19e162]:
+          - generic [ref=f19e164]:
+            - search [ref=f19e166]:
+              - searchbox [ref=f19e168]
+              - button "Search" [ref=f19e169] [cursor=pointer]
+            - generic [ref=f19e170]:
+              - strong [ref=f19e171]: Tags Cloud
+              - generic [ref=f19e173]:
+                - link "article (2 items)" [ref=f19e174] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/article/
+                  - text: article
+                - link "computer (1 item)" [ref=f19e175] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/computer/
+                  - text: computer
+                - link "developer (1 item)" [ref=f19e176] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/developer/
+                  - text: developer
+                - link "famous (1 item)" [ref=f19e177] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/famous/
+                  - text: famous
+                - link "interview (2 items)" [ref=f19e178] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/interview/
+                  - text: interview
+                - link "it (1 item)" [ref=f19e179] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/it/
+                  - text: it
+                - link "learn (2 items)" [ref=f19e180] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/learn/
+                  - text: learn
+                - link "money (2 items)" [ref=f19e181] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/money/
+                  - text: money
+                - link "photography (1 item)" [ref=f19e182] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/photography/
+                  - text: photography
+                - link "post (1 item)" [ref=f19e183] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/post/
+                  - text: post
+                - link "seo (1 item)" [ref=f19e184] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/seo/
+                  - text: seo
+                - link "technology (1 item)" [ref=f19e185] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/technology/
+                  - text: technology
+                - link "tutorial (1 item)" [ref=f19e186] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/tutorial/
+                  - text: tutorial
+                - link "tuts (1 item)" [ref=f19e187] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/tuts/
+                  - text: tuts
+                - link "website (1 item)" [ref=f19e188] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/website/
+                  - text: website
+                - link "wordpress (1 item)" [ref=f19e189] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/wordpress/
+                  - text: wordpress
+                - link "WP (1 item)" [ref=f19e190] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/tag/wp/
+                  - text: WP
+            - generic [ref=f19e191]:
+              - strong [ref=f19e192]: Ads
+              - link [ref=f19e194] [cursor=pointer]:
+                - /url: http://codevz.com/
+                - img "Ads" [ref=f19e195]
+    - contentinfo [ref=f19e196]:
+      - generic [ref=f19e199]:
+        - generic [ref=f19e201]:
+          - img "Logo" [ref=f19e202]
+          - generic [ref=f19e203]: Contact us today and we’ll help you get started. Most people start with an About page that introduces them to potential site visitors.
+        - generic [ref=f19e205]:
+          - textbox "Enter your email ..." [ref=f19e207]
+          - button " Join Now" [ref=f19e208] [cursor=pointer]:
+            - generic [ref=f19e209]: 
+            - text: Join Now
+        - generic [ref=f19e211]:
+          - button "Facebook" [ref=f19e212] [cursor=pointer]:
+            - generic [ref=f19e213]: 
+          - button "Twitter" [ref=f19e214] [cursor=pointer]:
+            - generic [ref=f19e215]: 
+          - button "Instagram" [ref=f19e216] [cursor=pointer]:
+            - generic [ref=f19e217]: 
+          - button "Pinterest" [ref=f19e218] [cursor=pointer]:
+            - generic [ref=f19e219]: 
+      - generic [ref=f19e220]: Copyright © 2026 Xtra Theme. All Rights Reserved.
+  - text: 
+  - generic [ref=f19e228]:
+    - generic [ref=f19e231]: This website uses cookies to improve user experience.
+    - button "Allow and close cookie notice" [ref=f19e232] [cursor=pointer]: Accept and close
+  - generic [ref=f19e233]:
+    - link [ref=f19e234] [cursor=pointer]:
+      - /url: https://1.envato.market/xtratheme
+      - img "Buy and Download XTRA Theme" [ref=f19e235]
+    - link [ref=f19e236] [cursor=pointer]:
+      - /url: https://xtratheme.com/docs
+      - img "Xtra Theme Documentation" [ref=f19e237]
+    - link [ref=f19e238] [cursor=pointer]:
+      - /url: https://youtube.com/channel/UCrS1L4oeTRfU1hvIo1gJGjg/videos
+      - img "Xtra Theme Videos Tutorials" [ref=f19e239]
+    - link [ref=f19e240] [cursor=pointer]:
+      - /url: https://codevz.ticksy.com/
+      - img "Xtra Theme Support Center" [ref=f19e241]
+    - link [ref=f19e242] [cursor=pointer]:
+      - /url: https://xtratheme.com/showcase
+      - img "Xtra Theme Showcase" [ref=f19e243]

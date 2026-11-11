@@ -1,0 +1,152 @@
+- generic [active] [ref=f9e1]:
+  - generic [ref=f9e2]:
+    - link [ref=f9e3] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+      - img "XTRA WordPress Theme on Envato Market" [ref=f9e4]
+    - strong [ref=f9e5]:
+      - text: Limited time offer, Buy XTRA WordPress theme only
+      - strong [ref=f9e6]: $39
+    - link "Download XTRA Theme" [ref=f9e7] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+  - generic [ref=f9e9]:
+    - banner [ref=f9e10]:
+      - generic [ref=f9e13]:
+        - link [ref=f9e16] [cursor=pointer]:
+          - /url: https://xtratheme.com/beauty-salon/
+          - img "Beauty Salon WordPress Theme" [ref=f9e17]
+        - generic [ref=f9e18]:
+          - link "Book Now" [ref=f9e20] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/make-an-appointment/
+          - generic [ref=f9e21]:
+            - text: 
+            - list [ref=f9e22]:
+              - listitem [ref=f9e23]:
+                - link "Home" [ref=f9e24] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/
+              - listitem [ref=f9e25]:
+                - link "About" [ref=f9e26] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/about/
+                - text: 
+              - listitem [ref=f9e27]:
+                - link "Gallery" [ref=f9e28] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/gallery/
+              - listitem [ref=f9e29]:
+                - link "FAQ" [ref=f9e30] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/faq/
+              - listitem [ref=f9e31]:
+                - link "Blog" [ref=f9e32] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/blog/
+              - listitem [ref=f9e33]:
+                - link "Shop" [ref=f9e34] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/shop/
+              - listitem [ref=f9e35]:
+                - link "Contact" [ref=f9e36] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/contact/
+              - text: 
+            - text: 
+      - text:          
+    - generic [ref=f9e41]:
+      - link [ref=f9e43] [cursor=pointer]:
+        - /url: https://xtratheme.com/beauty-salon/
+        - generic [aria-hidden] [ref=f9e44]: 
+      - generic [aria-hidden] [ref=f9e45]: 
+      - generic [ref=f9e46]:
+        - link "Gallery":
+          - /url: https://xtratheme.com/beauty-salon/gallery/
+    - main [ref=f9e47]:
+      - generic [ref=f9e56]:
+        - generic [ref=f9e58]:
+          - generic: Beauty
+          - generic [ref=f9e59]:
+            - generic [ref=f9e60]: _
+            - heading "Gallery" [level=2] [ref=f9e62]
+            - generic [ref=f9e63]: _
+        - generic [ref=f9e66]:
+          - link "Img4 " [ref=f9e69] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img4.jpg
+            - img "Img4"
+            - generic [ref=f9e70]: 
+          - link "Slide3 " [ref=f9e74] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/slide3.jpg
+            - img "Slide3"
+            - generic [ref=f9e75]: 
+          - link "Img8 " [ref=f9e79] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img8.jpg
+            - img "Img8"
+            - generic [ref=f9e80]: 
+          - link "Img9 " [ref=f9e84] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img9-1.jpg
+            - img "Img9"
+            - generic [ref=f9e85]: 
+          - link "Slide2 " [ref=f9e89] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/slide2.jpg
+            - img "Slide2"
+            - generic [ref=f9e90]: 
+        - generic [ref=f9e93]:
+          - link "Img8 " [ref=f9e96] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img8.jpg
+            - img "Img8"
+            - generic [ref=f9e97]: 
+          - link "Img9 " [ref=f9e101] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img9-1.jpg
+            - img "Img9"
+            - generic [ref=f9e102]: 
+          - link "Slide2 " [ref=f9e106] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/slide2.jpg
+            - img "Slide2"
+            - generic [ref=f9e107]: 
+          - link "Slide3 " [ref=f9e111] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/slide3.jpg
+            - img "Slide3"
+            - generic [ref=f9e112]: 
+          - link "Img4 " [ref=f9e116] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img4.jpg
+            - img "Img4"
+            - generic [ref=f9e117]: 
+        - button "Make an Appointment" [ref=f9e122] [cursor=pointer]:
+          - generic [ref=f9e123]:
+            - generic [ref=f9e124]: 
+            - strong [ref=f9e125]: Make an Appointment
+          - generic [ref=f9e126]:
+            - generic [ref=f9e127]: 
+            - strong [ref=f9e128]: Make an Appointment
+    - contentinfo [ref=f9e129]:
+      - generic [ref=f9e132]:
+        - generic [ref=f9e134]:
+          - img "Logo" [ref=f9e135]
+          - generic [ref=f9e136]: Contact us today and we’ll help you get started. Most people start with an About page that introduces them to potential site visitors.
+        - generic [ref=f9e138]:
+          - textbox "Enter your email ..." [ref=f9e140]
+          - button " Join Now" [ref=f9e141] [cursor=pointer]:
+            - generic [ref=f9e142]: 
+            - text: Join Now
+        - generic [ref=f9e144]:
+          - button "Facebook" [ref=f9e145] [cursor=pointer]:
+            - generic [ref=f9e146]: 
+          - button "Twitter" [ref=f9e147] [cursor=pointer]:
+            - generic [ref=f9e148]: 
+          - button "Instagram" [ref=f9e149] [cursor=pointer]:
+            - generic [ref=f9e150]: 
+          - button "Pinterest" [ref=f9e151] [cursor=pointer]:
+            - generic [ref=f9e152]: 
+      - generic [ref=f9e153]: Copyright © 2026 Xtra Theme. All Rights Reserved.
+  - text: 
+  - generic [ref=f9e161]:
+    - generic [ref=f9e164]: This website uses cookies to improve user experience.
+    - button "Allow and close cookie notice" [ref=f9e165] [cursor=pointer]: Accept and close
+  - generic [ref=f9e166]:
+    - link [ref=f9e167] [cursor=pointer]:
+      - /url: https://1.envato.market/xtratheme
+      - img "Buy and Download XTRA Theme" [ref=f9e168]
+    - link [ref=f9e169] [cursor=pointer]:
+      - /url: https://xtratheme.com/docs
+      - img "Xtra Theme Documentation" [ref=f9e170]
+    - link [ref=f9e171] [cursor=pointer]:
+      - /url: https://youtube.com/channel/UCrS1L4oeTRfU1hvIo1gJGjg/videos
+      - img "Xtra Theme Videos Tutorials" [ref=f9e172]
+    - link [ref=f9e173] [cursor=pointer]:
+      - /url: https://codevz.ticksy.com/
+      - img "Xtra Theme Support Center" [ref=f9e174]
+    - link [ref=f9e175] [cursor=pointer]:
+      - /url: https://xtratheme.com/showcase
+      - img "Xtra Theme Showcase" [ref=f9e176]

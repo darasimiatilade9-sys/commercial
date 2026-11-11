@@ -1,0 +1,112 @@
+- generic [ref=f31e2]:
+  - banner [ref=f31e3]:
+    - generic [ref=f31e4]:
+      - link "XTRA Beauty — Home" [ref=f31e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f31e6]
+      - navigation [ref=f31e7]:
+        - link "Home" [ref=f31e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f31e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f31e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f31e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f31e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f31e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f31e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f31e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f31e19]:
+    - generic [ref=f31e23]:
+      - heading "Make an Appointment" [level=1] [ref=f31e24]
+      - navigation [ref=f31e25]:
+        - link "Home" [ref=f31e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f31e27]: /
+        - generic [ref=f31e28]: Reservation
+    - generic [ref=f31e30]:
+      - generic [ref=f31e31]:
+        - generic [ref=f31e32]:
+          - generic [aria-hidden]: RESERVATION
+          - heading "Book Your Visit" [level=2] [ref=f31e35]
+        - paragraph [ref=f31e37]: Pick a service and a time that suits you. We will confirm your appointment by email within one business hour.
+      - generic [ref=f31e38]:
+        - generic [ref=f31e40]:
+          - textbox "Your name" [ref=f31e41]:
+            - /placeholder: Your Name (*)
+          - textbox "Your email" [ref=f31e42]:
+            - /placeholder: Your Email (*)
+          - textbox "Phone number" [ref=f31e43]:
+            - /placeholder: Phone Number
+          - combobox "Service" [ref=f31e44]:
+            - option "Select a Service (*)" [disabled] [selected]
+            - option "Haircut — From $20"
+            - option "Skin Care — From $50"
+            - option "Makeup — From $40"
+            - option "Manicure — From $25"
+            - option "Pedicure — From $30"
+          - textbox "Preferred date" [ref=f31e45]
+          - combobox "Stylist" [ref=f31e46]:
+            - option "Preferred Stylist" [disabled] [selected]
+            - option "No preference"
+            - option "Jenni West"
+            - option "Linda Someone"
+            - option "Amanda Carston"
+            - option "Clara Carston"
+          - generic [ref=f31e47]:
+            - paragraph [ref=f31e48]: Available times
+            - generic [ref=f31e49]:
+              - button "09:00 AM" [ref=f31e50]
+              - button "10:30 AM" [ref=f31e51]
+              - button "12:00 PM" [ref=f31e52]
+              - button "01:30 PM" [ref=f31e53]
+              - button "03:00 PM" [ref=f31e54]
+              - button "04:30 PM" [ref=f31e55]
+              - button "06:00 PM" [ref=f31e56]
+          - textbox "Additional notes" [ref=f31e57]
+          - button "Submit Reservation" [ref=f31e59]
+        - generic [ref=f31e60]:
+          - generic [ref=f31e61]:
+            - heading "Salon Hours" [level=3] [ref=f31e62]
+            - list [ref=f31e63]:
+              - listitem [ref=f31e64]:
+                - generic [ref=f31e65]: Mon — Fri
+                - generic [ref=f31e66]: 09:00 — 19:00
+              - listitem [ref=f31e67]:
+                - generic [ref=f31e68]: Saturday
+                - generic [ref=f31e69]: 10:00 — 18:00
+              - listitem [ref=f31e70]:
+                - generic [ref=f31e71]: Sunday
+                - generic [ref=f31e72]: Closed
+          - generic [ref=f31e73]:
+            - heading "Need Help?" [level=3] [ref=f31e74]
+            - paragraph [ref=f31e75]: Call us directly and we will book you in over the phone.
+            - link "+1 (000) 000-0000" [ref=f31e76] [cursor=pointer]:
+              - /url: tel:+10000000000
+            - paragraph [ref=f31e77]: No23. Some Ave, Your City Name, NY 90025
+  - contentinfo [ref=f31e78]:
+    - generic [ref=f31e80]:
+      - link [ref=f31e81] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f31e82]
+      - paragraph [ref=f31e83]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f31e84]:
+        - textbox "Email address" [ref=f31e85]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f31e86]
+      - generic [ref=f31e89]:
+        - link "Facebook" [ref=f31e90] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f31e93] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f31e96] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f31e99] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f31e103]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top"

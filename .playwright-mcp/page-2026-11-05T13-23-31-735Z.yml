@@ -1,0 +1,104 @@
+- generic [ref=f27e2]:
+  - banner [ref=f27e3]:
+    - generic [ref=f27e4]:
+      - link "XTRA Beauty — Home" [ref=f27e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f27e6]
+      - navigation [ref=f27e7]:
+        - link "Home" [ref=f27e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f27e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f27e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f27e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f27e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f27e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f27e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f27e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f27e19]:
+    - generic [ref=f27e23]:
+      - heading "FAQ" [level=1] [ref=f27e24]
+      - navigation [ref=f27e25]:
+        - link "Home" [ref=f27e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f27e27]: /
+        - generic [ref=f27e28]: FAQ
+    - generic [ref=f27e30]:
+      - generic [ref=f27e31]:
+        - generic [ref=f27e32]:
+          - generic [aria-hidden]: QUESTIONS
+          - heading "F.A.Qs" [level=2] [ref=f27e35]
+        - paragraph [ref=f27e37]: Everything you might want to know before your first visit. Can't find an answer? Get in touch and we'll reply the same day.
+      - list [ref=f27e39]:
+        - listitem [ref=f27e40]:
+          - button "What services does your beauty salon offer?" [expanded] [ref=f27e41]
+          - paragraph [ref=f27e48]: We offer haircutting, styling, skin care treatments, makeup application, manicures, pedicures and a full range of spa therapies for men and women.
+        - listitem [ref=f27e49]:
+          - button "Do I need an appointment or can I walk in?" [ref=f27e50]
+          - paragraph [ref=f27e55]: Walk-ins are welcome, though we recommend booking ahead so you can secure your preferred stylist and time slot.
+        - listitem [ref=f27e56]:
+          - button "How long does a typical treatment take?" [ref=f27e57]
+          - paragraph [ref=f27e62]: A standard haircut takes around 45 minutes, while facials and full spa packages can take between 60 and 120 minutes.
+        - listitem [ref=f27e63]:
+          - button "Are your products cruelty free?" [ref=f27e64]
+          - paragraph [ref=f27e69]: Yes. Every product on our shelves is cruelty free and many are also vegan and paraben free.
+        - listitem [ref=f27e70]:
+          - button "What is your cancellation policy?" [ref=f27e71]
+          - paragraph [ref=f27e76]: Please give us at least 24 hours notice so the slot can be released to another client. Late cancellations may be charged 50%.
+    - generic [ref=f27e78]:
+      - generic [ref=f27e80]:
+        - generic [aria-hidden]: MORE
+        - heading "Other Questions" [level=2] [ref=f27e83]
+      - list [ref=f27e86]:
+        - listitem [ref=f27e87]:
+          - button "Do you offer bridal and event packages?" [ref=f27e88]
+          - paragraph [ref=f27e93]: We do — bridal packages include a trial run, hair, makeup and touch-ups on the day itself.
+        - listitem [ref=f27e94]:
+          - button "Is parking available near the salon?" [ref=f27e95]
+          - paragraph [ref=f27e100]: There is free street parking after 6pm and a paid car park directly opposite the entrance.
+        - listitem [ref=f27e101]:
+          - button "Do you sell the products used in the salon?" [ref=f27e102]
+          - paragraph [ref=f27e107]: Yes, everything we use during a treatment is available to purchase at our reception counter and online shop.
+        - listitem [ref=f27e108]:
+          - button "Can I request a specific stylist?" [ref=f27e109]
+          - paragraph [ref=f27e114]: Of course. Just mention their name when you book and we will match you with them where possible.
+        - listitem [ref=f27e115]:
+          - button "Do you have a loyalty or referral programme?" [ref=f27e116]
+          - paragraph [ref=f27e121]: Returning clients earn points on every visit, and referrals receive 20% off their next treatment.
+    - generic [ref=f27e123]:
+      - generic [ref=f27e124]:
+        - generic [aria-hidden]: CONTACT
+        - heading "Do you have a Question?" [level=2] [ref=f27e127]
+      - paragraph [ref=f27e129]: Our team is happy to help with bookings, treatments, products or anything else.
+      - generic [ref=f27e130]:
+        - link "Contact Us" [ref=f27e131] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f27e132] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - contentinfo [ref=f27e133]:
+    - generic [ref=f27e135]:
+      - link [ref=f27e136] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f27e137]
+      - paragraph [ref=f27e138]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f27e139]:
+        - textbox "Email address" [ref=f27e140]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f27e141]
+      - generic [ref=f27e144]:
+        - link "Facebook" [ref=f27e145] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f27e148] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f27e151] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f27e154] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f27e158]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top"

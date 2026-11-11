@@ -1,0 +1,248 @@
+- generic [active] [ref=f8e1]:
+  - generic [ref=f8e2]:
+    - link [ref=f8e3] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+      - img "XTRA WordPress Theme on Envato Market" [ref=f8e4]
+    - strong [ref=f8e5]:
+      - text: Limited time offer, Buy XTRA WordPress theme only
+      - strong [ref=f8e6]: $39
+    - link "Download XTRA Theme" [ref=f8e7] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+  - generic [ref=f8e9]:
+    - banner [ref=f8e10]:
+      - generic [ref=f8e13]:
+        - link [ref=f8e16] [cursor=pointer]:
+          - /url: https://xtratheme.com/beauty-salon/
+          - img "Beauty Salon WordPress Theme" [ref=f8e17]
+        - generic [ref=f8e18]:
+          - link "Book Now" [ref=f8e20] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/make-an-appointment/
+          - generic [ref=f8e21]:
+            - text: 
+            - list [ref=f8e22]:
+              - listitem [ref=f8e23]:
+                - link "Home" [ref=f8e24] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/
+              - listitem [ref=f8e25]:
+                - link "About" [ref=f8e26] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/about/
+                - text: 
+              - listitem [ref=f8e27]:
+                - link "Gallery" [ref=f8e28] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/gallery/
+              - listitem [ref=f8e29]:
+                - link "FAQ" [ref=f8e30] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/faq/
+              - listitem [ref=f8e31]:
+                - link "Blog" [ref=f8e32] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/blog/
+              - listitem [ref=f8e33]:
+                - link "Shop" [ref=f8e34] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/shop/
+              - listitem [ref=f8e35]:
+                - link "Contact" [ref=f8e36] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/contact/
+              - text: 
+            - text: 
+      - text:          
+    - generic [ref=f8e41]:
+      - link [ref=f8e43] [cursor=pointer]:
+        - /url: https://xtratheme.com/beauty-salon/
+        - generic [aria-hidden] [ref=f8e44]: 
+      - generic [aria-hidden] [ref=f8e45]: 
+      - generic [ref=f8e46]:
+        - link "About":
+          - /url: https://xtratheme.com/beauty-salon/about/
+    - main [ref=f8e47]:
+      - generic [ref=f8e52]:
+        - generic [ref=f8e53]:
+          - generic [ref=f8e61]:
+            - generic [ref=f8e63]:
+              - generic: History
+              - generic [ref=f8e64]:
+                - heading "About Us" [level=2] [ref=f8e66]
+                - generic [ref=f8e67]: _
+            - generic [ref=f8e69]: Wine is an alcoholic beverage made from grapes, generally Vitis vinifera, fermented without the addition of sugars, acids, enzymes, water, or other nutrients. Yeast consumes the sugar in the grapes and converts it to ethanol.
+            - generic [ref=f8e74]:
+              - button "Facebook" [ref=f8e75] [cursor=pointer]:
+                - generic [ref=f8e76]: 
+              - button "Twitter" [ref=f8e77] [cursor=pointer]:
+                - generic [ref=f8e78]: 
+              - button "Instagram" [ref=f8e79] [cursor=pointer]:
+                - generic [ref=f8e80]: 
+              - button "Skype" [ref=f8e81] [cursor=pointer]:
+                - generic [ref=f8e82]: 
+          - generic [ref=f8e89]:
+            - button "Previous" [ref=f8e90] [cursor=pointer]:
+              - generic [ref=f8e91]: 
+            - generic [ref=f8e93]:
+              - generic [ref=f8e96]:
+                - link:
+                  - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img8.jpg
+                  - text: 
+              - generic [ref=f8e99]:
+                - link "Img4":
+                  - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img4.jpg
+                  - img "Img4"
+                  - text: 
+              - generic [ref=f8e102]:
+                - link:
+                  - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img9-1.jpg
+                  - text: 
+              - generic [ref=f8e105]:
+                - link:
+                  - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img8.jpg
+                  - text: 
+              - generic [ref=f8e108]:
+                - link:
+                  - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img4.jpg
+                  - text: 
+              - generic [ref=f8e111]:
+                - link:
+                  - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img9-1.jpg
+                  - text: 
+              - generic [ref=f8e114]:
+                - link:
+                  - /url: https://xtratheme.com/beauty-salon/wp-content/uploads/sites/53/2018/07/img8.jpg
+                  - text: 
+            - button "Next" [ref=f8e115] [cursor=pointer]:
+              - generic [ref=f8e116]: 
+        - generic [ref=f8e124]:
+          - generic [ref=f8e126]:
+            - generic: Our Club
+            - generic [ref=f8e127]:
+              - heading "About Our Beauty Center" [level=2] [ref=f8e129]
+              - generic [ref=f8e130]: _
+          - paragraph [ref=f8e135]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+        - generic [ref=f8e141]:
+          - generic [ref=f8e142]:
+            - generic: Gallery
+            - generic [ref=f8e143]:
+              - heading "Our Gallery" [level=2] [ref=f8e145]
+              - generic [ref=f8e146]: _
+          - paragraph [ref=f8e151]: A beauty salon or beauty parlor, or sometimes beauty shop, is an establishment dealing with cosmetic treatments for men and women. Other variations of this type of business include hair salons and spas.
+          - button "Gallery" [ref=f8e155] [cursor=pointer]:
+            - generic [ref=f8e156]:
+              - generic [ref=f8e157]: 
+              - strong [ref=f8e158]: View Gallery
+            - generic [ref=f8e159]:
+              - generic [ref=f8e160]: 
+              - strong [ref=f8e161]: View Gallery
+        - generic [ref=f8e175]:
+          - heading "Lovely Beauty Luxury" [level=2] [ref=f8e177]:
+            - generic [ref=f8e178]:
+              - generic [ref=f8e179]: Lovely
+              - generic [ref=f8e180]: Beauty
+              - generic [ref=f8e181]: Luxury
+          - link [ref=f8e185] [cursor=pointer]:
+            - /url: "#"
+            - strong [ref=f8e187]: View Gallery
+            - strong [ref=f8e189]: View Gallery
+        - generic [ref=f8e195]:
+          - generic: Experts
+          - generic [ref=f8e196]:
+            - generic [ref=f8e197]: _
+            - heading "Our Team" [level=2] [ref=f8e199]
+            - generic [ref=f8e200]: _
+        - generic [ref=f8e206]:
+          - text: 
+          - generic [ref=f8e208]:
+            - paragraph [ref=f8e214]:
+              - generic [ref=f8e215]:
+                - generic [ref=f8e216]: Linda Someone
+                - generic [ref=f8e218]: Hair Stylist
+            - paragraph [ref=f8e224]:
+              - generic [ref=f8e225]:
+                - generic [ref=f8e226]: Amanda Carston
+                - generic [ref=f8e228]: Makeup Artist
+            - paragraph [ref=f8e234]:
+              - generic [ref=f8e235]:
+                - generic [ref=f8e236]: Clara Carston
+                - generic [ref=f8e238]: Hair Stylist
+            - generic [ref=f8e241]:
+              - generic [ref=f8e242]:
+                - img "M10"
+              - paragraph [ref=f8e244]:
+                - generic [ref=f8e245]:
+                  - generic [ref=f8e246]: Jenni West
+                  - generic [ref=f8e248]: Skin Care Specialist
+            - generic [ref=f8e251]:
+              - generic [ref=f8e252]:
+                - img "M9"
+              - paragraph [ref=f8e254]:
+                - generic [ref=f8e255]:
+                  - generic [ref=f8e256]: Linda Someone
+                  - generic [ref=f8e258]: Hair Stylist
+            - generic [ref=f8e261]:
+              - generic [ref=f8e262]:
+                - img "M3"
+              - paragraph [ref=f8e264]:
+                - generic [ref=f8e265]:
+                  - generic [ref=f8e266]: Amanda Carston
+                  - generic [ref=f8e268]: Makeup Artist
+            - paragraph [ref=f8e274]:
+              - generic [ref=f8e275]:
+                - generic [ref=f8e276]: Clara Carston
+                - generic [ref=f8e278]: Hair Stylist
+            - paragraph [ref=f8e284]:
+              - generic [ref=f8e285]:
+                - generic [ref=f8e286]: Jenni West
+                - generic [ref=f8e288]: Skin Care Specialist
+            - paragraph [ref=f8e294]:
+              - generic [ref=f8e295]:
+                - generic [ref=f8e296]: Linda Someone
+                - generic [ref=f8e298]: Hair Stylist
+            - paragraph [ref=f8e304]:
+              - generic [ref=f8e305]:
+                - generic [ref=f8e306]: Amanda Carston
+                - generic [ref=f8e308]: Makeup Artist
+            - paragraph [ref=f8e314]:
+              - generic [ref=f8e315]:
+                - generic [ref=f8e316]: Clara Carston
+                - generic [ref=f8e318]: Hair Stylist
+          - text: 
+          - list [ref=f8e319]:
+            - listitem [ref=f8e320]:
+              - button "1" [ref=f8e321] [cursor=pointer]
+            - listitem [ref=f8e322]:
+              - button "2" [ref=f8e323] [cursor=pointer]
+    - contentinfo [ref=f8e329]:
+      - generic [ref=f8e332]:
+        - generic [ref=f8e334]:
+          - img "Logo" [ref=f8e335]
+          - generic [ref=f8e336]: Contact us today and we’ll help you get started. Most people start with an About page that introduces them to potential site visitors.
+        - generic [ref=f8e338]:
+          - textbox "Enter your email ..." [ref=f8e340]
+          - button " Join Now" [ref=f8e341] [cursor=pointer]:
+            - generic [ref=f8e342]: 
+            - text: Join Now
+        - generic [ref=f8e344]:
+          - button "Facebook" [ref=f8e345] [cursor=pointer]:
+            - generic [ref=f8e346]: 
+          - button "Twitter" [ref=f8e347] [cursor=pointer]:
+            - generic [ref=f8e348]: 
+          - button "Instagram" [ref=f8e349] [cursor=pointer]:
+            - generic [ref=f8e350]: 
+          - button "Pinterest" [ref=f8e351] [cursor=pointer]:
+            - generic [ref=f8e352]: 
+      - generic [ref=f8e353]: Copyright © 2026 Xtra Theme. All Rights Reserved.
+  - text: 
+  - generic [ref=f8e361]:
+    - generic [ref=f8e364]: This website uses cookies to improve user experience.
+    - button "Allow and close cookie notice" [ref=f8e365] [cursor=pointer]: Accept and close
+  - generic [ref=f8e366]:
+    - link [ref=f8e367] [cursor=pointer]:
+      - /url: https://1.envato.market/xtratheme
+      - img "Buy and Download XTRA Theme" [ref=f8e368]
+    - link [ref=f8e369] [cursor=pointer]:
+      - /url: https://xtratheme.com/docs
+      - img "Xtra Theme Documentation" [ref=f8e370]
+    - link [ref=f8e371] [cursor=pointer]:
+      - /url: https://youtube.com/channel/UCrS1L4oeTRfU1hvIo1gJGjg/videos
+      - img "Xtra Theme Videos Tutorials" [ref=f8e372]
+    - link [ref=f8e373] [cursor=pointer]:
+      - /url: https://codevz.ticksy.com/
+      - img "Xtra Theme Support Center" [ref=f8e374]
+    - link [ref=f8e375] [cursor=pointer]:
+      - /url: https://xtratheme.com/showcase
+      - img "Xtra Theme Showcase" [ref=f8e376]

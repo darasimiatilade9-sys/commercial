@@ -1,0 +1,179 @@
+- generic [active] [ref=f18e1]:
+  - generic [ref=f18e2]:
+    - link [ref=f18e3] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+      - img "XTRA WordPress Theme on Envato Market" [ref=f18e4]
+    - strong [ref=f18e5]:
+      - text: Limited time offer, Buy XTRA WordPress theme only
+      - strong [ref=f18e6]: $39
+    - link "Download XTRA Theme" [ref=f18e7] [cursor=pointer]:
+      - /url: https://1.envato.market/xtra
+  - generic [ref=f18e9]:
+    - banner [ref=f18e10]:
+      - generic [ref=f18e13]:
+        - link [ref=f18e16] [cursor=pointer]:
+          - /url: https://xtratheme.com/beauty-salon/
+          - img "Beauty Salon WordPress Theme" [ref=f18e17]
+        - generic [ref=f18e18]:
+          - link "Book Now" [ref=f18e20] [cursor=pointer]:
+            - /url: https://xtratheme.com/beauty-salon/make-an-appointment/
+          - generic [ref=f18e21]:
+            - text: 
+            - list [ref=f18e22]:
+              - listitem [ref=f18e23]:
+                - link "Home" [ref=f18e24] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/
+              - listitem [ref=f18e25]:
+                - link "About" [ref=f18e26] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/about/
+                - text: 
+              - listitem [ref=f18e27]:
+                - link "Gallery" [ref=f18e28] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/gallery/
+              - listitem [ref=f18e29]:
+                - link "FAQ" [ref=f18e30] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/faq/
+              - listitem [ref=f18e31]:
+                - link "Blog" [ref=f18e32] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/blog/
+              - listitem [ref=f18e33]:
+                - link "Shop" [ref=f18e34] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/shop/
+              - listitem [ref=f18e35]:
+                - link "Contact" [ref=f18e36] [cursor=pointer]:
+                  - /url: https://xtratheme.com/beauty-salon/contact/
+              - text: 
+            - text: 
+      - text:          
+    - generic [ref=f18e41]:
+      - link [ref=f18e43] [cursor=pointer]:
+        - /url: https://xtratheme.com/beauty-salon/
+        - generic [aria-hidden] [ref=f18e44]: 
+      - generic [aria-hidden] [ref=f18e45]: 
+      - generic [ref=f18e46]:
+        - link "FAQ":
+          - /url: https://xtratheme.com/beauty-salon/faq/
+    - main [ref=f18e47]:
+      - generic [ref=f18e53]:
+        - generic [ref=f18e56]:
+          - generic [ref=f18e58]:
+            - generic [ref=f18e59]: 
+            - paragraph [ref=f18e61]:
+              - strong [ref=f18e63]: F.A.Qs
+          - generic [ref=f18e65]:
+            - generic [ref=f18e66]:
+              - generic [ref=f18e67] [cursor=pointer]:
+                - generic [ref=f18e68]: Your Question Title?
+                - text: 
+                - generic [ref=f18e69]: 
+              - paragraph [ref=f18e73]: I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            - generic [ref=f18e75] [cursor=pointer]:
+              - generic [ref=f18e76]: Do eiusmod tempor incidit?
+              - generic [ref=f18e77]: 
+              - text: 
+            - generic [ref=f18e79] [cursor=pointer]:
+              - generic [ref=f18e80]: Cupidatat iusmod tempor incid idun?
+              - generic [ref=f18e81]: 
+              - text: 
+            - generic [ref=f18e83] [cursor=pointer]:
+              - generic [ref=f18e84]: Excepteur sint occaecat cupidatat iusmod tempor incid idun?
+              - generic [ref=f18e85]: 
+              - text: 
+            - generic [ref=f18e87] [cursor=pointer]:
+              - generic [ref=f18e88]: Cupidatat iusmod tempor incid idun?
+              - generic [ref=f18e89]: 
+              - text: 
+          - generic [ref=f18e92]:
+            - generic [ref=f18e93]: 
+            - paragraph [ref=f18e95]:
+              - strong [ref=f18e97]: Other Questions
+          - generic [ref=f18e99]:
+            - generic [ref=f18e101] [cursor=pointer]:
+              - generic [ref=f18e102]: Your Question Title?
+              - generic [ref=f18e103]: 
+              - text: 
+            - generic [ref=f18e105] [cursor=pointer]:
+              - generic [ref=f18e106]: Do eiusmod tempor incidit?
+              - generic [ref=f18e107]: 
+              - text: 
+            - generic [ref=f18e109] [cursor=pointer]:
+              - generic [ref=f18e110]: Cupidatat iusmod tempor incid idun?
+              - generic [ref=f18e111]: 
+              - text: 
+            - generic [ref=f18e113] [cursor=pointer]:
+              - generic [ref=f18e114]: Excepteur sint occaecat cupidatat iusmod tempor incid idun?
+              - generic [ref=f18e115]: 
+              - text: 
+            - generic [ref=f18e117] [cursor=pointer]:
+              - generic [ref=f18e118]: Cupidatat iusmod tempor incid idun?
+              - generic [ref=f18e119]: 
+              - text: 
+        - generic [ref=f18e122]:
+          - generic [ref=f18e127]:
+            - heading [level=3] [ref=f18e132]:
+              - strong [ref=f18e134]: Do you have Question?
+            - paragraph [ref=f18e137]: Please read questions bellow and if you can not find your answer, please send us your question, we will answer you as soon as possible.
+          - generic [ref=f18e140]:
+            - generic [ref=f18e141]: 
+            - paragraph [ref=f18e143]:
+              - strong [ref=f18e144]: Ask Us
+          - generic [ref=f18e147]:
+            - generic [ref=f18e148]:
+              - list
+            - form "Contact form" [ref=f18e149]:
+              - paragraph [ref=f18e150]:
+                - textbox "Your Name (*)" [ref=f18e152]
+              - paragraph [ref=f18e153]:
+                - textbox "Your Email (*)" [ref=f18e155]
+              - paragraph [ref=f18e156]:
+                - textbox "Subject" [ref=f18e158]
+              - paragraph [ref=f18e159]:
+                - combobox [ref=f18e161]:
+                  - option "Business Department" [selected]
+                  - option "Personal Department"
+                  - option "Support Department"
+                  - option "Others"
+              - paragraph [ref=f18e162]:
+                - textbox "Your Question" [ref=f18e164]
+              - paragraph [ref=f18e165]:
+                - button "Ask" [ref=f18e166] [cursor=pointer]
+    - contentinfo [ref=f18e167]:
+      - generic [ref=f18e170]:
+        - generic [ref=f18e172]:
+          - img "Logo" [ref=f18e173]
+          - generic [ref=f18e174]: Contact us today and we’ll help you get started. Most people start with an About page that introduces them to potential site visitors.
+        - generic [ref=f18e176]:
+          - textbox "Enter your email ..." [ref=f18e178]
+          - button " Join Now" [ref=f18e179] [cursor=pointer]:
+            - generic [ref=f18e180]: 
+            - text: Join Now
+        - generic [ref=f18e182]:
+          - button "Facebook" [ref=f18e183] [cursor=pointer]:
+            - generic [ref=f18e184]: 
+          - button "Twitter" [ref=f18e185] [cursor=pointer]:
+            - generic [ref=f18e186]: 
+          - button "Instagram" [ref=f18e187] [cursor=pointer]:
+            - generic [ref=f18e188]: 
+          - button "Pinterest" [ref=f18e189] [cursor=pointer]:
+            - generic [ref=f18e190]: 
+      - generic [ref=f18e191]: Copyright © 2026 Xtra Theme. All Rights Reserved.
+  - text: 
+  - generic [ref=f18e199]:
+    - generic [ref=f18e202]: This website uses cookies to improve user experience.
+    - button "Allow and close cookie notice" [ref=f18e203] [cursor=pointer]: Accept and close
+  - generic [ref=f18e204]:
+    - link [ref=f18e205] [cursor=pointer]:
+      - /url: https://1.envato.market/xtratheme
+      - img "Buy and Download XTRA Theme" [ref=f18e206]
+    - link [ref=f18e207] [cursor=pointer]:
+      - /url: https://xtratheme.com/docs
+      - img "Xtra Theme Documentation" [ref=f18e208]
+    - link [ref=f18e209] [cursor=pointer]:
+      - /url: https://youtube.com/channel/UCrS1L4oeTRfU1hvIo1gJGjg/videos
+      - img "Xtra Theme Videos Tutorials" [ref=f18e210]
+    - link [ref=f18e211] [cursor=pointer]:
+      - /url: https://codevz.ticksy.com/
+      - img "Xtra Theme Support Center" [ref=f18e212]
+    - link [ref=f18e213] [cursor=pointer]:
+      - /url: https://xtratheme.com/showcase
+      - img "Xtra Theme Showcase" [ref=f18e214]

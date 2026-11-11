@@ -1,0 +1,106 @@
+- generic [ref=f38e2]:
+  - banner [ref=f38e3]:
+    - generic [ref=f38e4]:
+      - link "XTRA Beauty — Home" [ref=f38e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f38e6]
+      - navigation [ref=f38e7]:
+        - link "Home" [ref=f38e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f38e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f38e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f38e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f38e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f38e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f38e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f38e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f38e19]:
+    - generic [ref=f38e23]:
+      - heading "Contact" [level=1] [ref=f38e24]
+      - navigation [ref=f38e25]:
+        - link "Home" [ref=f38e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f38e27]: /
+        - generic [ref=f38e28]: Contact
+    - generic [ref=f38e30]:
+      - generic [ref=f38e32]:
+        - heading "Email Us" [level=3] [ref=f38e36]
+        - link "hello@xtrabeauty.com" [ref=f38e37] [cursor=pointer]:
+          - /url: mailto:hello@xtrabeauty.com
+      - generic [ref=f38e39]:
+        - heading "Call Us" [level=3] [ref=f38e43]
+        - link "+1 (000) 000-0000" [ref=f38e44] [cursor=pointer]:
+          - /url: tel:+10000000000
+      - generic [ref=f38e46]:
+        - heading "Visit Us" [level=3] [ref=f38e50]
+        - paragraph [ref=f38e51]: No23. Some Ave, Your City Name, NY 90025
+    - generic [ref=f38e52]:
+      - generic [ref=f38e53]:
+        - generic [ref=f38e54]:
+          - generic [aria-hidden]: MESSAGE
+          - heading "Send a Message" [level=2] [ref=f38e57]
+        - generic [ref=f38e59]:
+          - generic [ref=f38e60]:
+            - textbox "Your name" [ref=f38e61]:
+              - /placeholder: Your Name (*)
+            - textbox "Your email" [ref=f38e62]:
+              - /placeholder: Your Email (*)
+          - textbox "Subject" [ref=f38e63]
+          - combobox "Department" [ref=f38e64]:
+            - option "Business Department" [disabled] [selected]
+            - option "Reception"
+            - option "Hair Styling"
+            - option "Skin Care"
+            - option "Makeup"
+            - option "Billing"
+          - textbox "Your message" [ref=f38e65]:
+            - /placeholder: Your Message (*)
+          - button "Send Message" [ref=f38e67]
+      - generic [ref=f38e68]:
+        - img "Salon location map" [ref=f38e69]
+        - generic [ref=f38e70]:
+          - paragraph [ref=f38e71]: No23. Some Ave, Your City Name, NY 90025
+          - link "Open in Maps" [ref=f38e72] [cursor=pointer]:
+            - /url: https://maps.google.com
+    - generic [ref=f38e74]:
+      - generic [ref=f38e75]:
+        - generic [aria-hidden]: HOURS
+        - heading "Opening Times" [level=2] [ref=f38e78]
+      - list [ref=f38e80]:
+        - listitem [ref=f38e81]:
+          - generic [ref=f38e82]: Monday — Friday
+          - generic [ref=f38e83]: 09:00 — 19:00
+        - listitem [ref=f38e84]:
+          - generic [ref=f38e85]: Saturday
+          - generic [ref=f38e86]: 10:00 — 18:00
+        - listitem [ref=f38e87]:
+          - generic [ref=f38e88]: Sunday
+          - generic [ref=f38e89]: Closed
+  - contentinfo [ref=f38e90]:
+    - generic [ref=f38e92]:
+      - link [ref=f38e93] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f38e94]
+      - paragraph [ref=f38e95]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f38e96]:
+        - textbox "Email address" [ref=f38e97]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f38e98]
+      - generic [ref=f38e101]:
+        - link "Facebook" [ref=f38e102] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f38e105] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f38e108] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f38e111] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f38e115]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top"

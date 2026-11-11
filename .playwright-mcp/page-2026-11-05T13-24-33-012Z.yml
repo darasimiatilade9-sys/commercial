@@ -1,0 +1,95 @@
+- generic [ref=f28e2]:
+  - banner [ref=f28e3]:
+    - generic [ref=f28e4]:
+      - link "XTRA Beauty — Home" [ref=f28e5] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f28e6]
+      - navigation [ref=f28e7]:
+        - link "Home" [ref=f28e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=f28e10] [cursor=pointer]:
+          - /url: /about
+        - link "Gallery" [ref=f28e13] [cursor=pointer]:
+          - /url: /gallery
+        - link "FAQ" [ref=f28e14] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=f28e15] [cursor=pointer]:
+          - /url: /blog
+        - link "Shop" [ref=f28e16] [cursor=pointer]:
+          - /url: /shop
+        - link "Contact" [ref=f28e17] [cursor=pointer]:
+          - /url: /contact
+        - link "Book Now" [ref=f28e18] [cursor=pointer]:
+          - /url: /make-an-appointment
+  - main [ref=f28e19]:
+    - generic [ref=f28e23]:
+      - heading "Blog" [level=1] [ref=f28e24]
+      - navigation [ref=f28e25]:
+        - link "Home" [ref=f28e26] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f28e27]: /
+        - generic [ref=f28e28]: Blog
+    - generic [ref=f28e30]:
+      - generic [ref=f28e32]:
+        - generic [aria-hidden]: JOURNAL
+        - heading "Latest News" [level=2] [ref=f28e35]
+      - generic [ref=f28e37]:
+        - button "All" [ref=f28e38]
+        - button "Hair" [ref=f28e39]
+        - button "Skin Care" [ref=f28e40]
+        - button "Makeup" [ref=f28e41]
+        - button "News" [ref=f28e42]
+      - generic [ref=f28e43]:
+        - article [ref=f28e45]:
+          - generic [ref=f28e46]:
+            - img "A Place of Silence" [ref=f28e47]
+            - generic [ref=f28e48]: 10 June 2024
+          - generic [ref=f28e49]:
+            - heading "A Place of Silence" [level=3] [ref=f28e50]
+            - paragraph [ref=f28e51]: Quisque velit nisi, pretium ut lacinia in, elementum id enim. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta.
+            - generic [ref=f28e52]: Read More
+        - article [ref=f28e56]:
+          - generic [ref=f28e57]:
+            - img "The Art of Self Care" [ref=f28e58]
+            - generic [ref=f28e59]: 28 May 2024
+          - generic [ref=f28e60]:
+            - heading "The Art of Self Care" [level=3] [ref=f28e61]
+            - paragraph [ref=f28e62]: Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Curabitur non nulla sit amet nisl tempus.
+            - generic [ref=f28e63]: Read More
+        - article [ref=f28e67]:
+          - generic [ref=f28e68]:
+            - img "Trends in Modern Beauty" [ref=f28e69]
+            - generic [ref=f28e70]: 14 April 2024
+          - generic [ref=f28e71]:
+            - heading "Trends in Modern Beauty" [level=3] [ref=f28e72]
+            - paragraph [ref=f28e73]: Pellentesque in ipsum id orci porta ultrices. Nulla porttitor accumsan tincidunt. Vestibulum ante ipsum primis in faucibus.
+            - generic [ref=f28e74]: Read More
+      - generic [ref=f28e77]:
+        - button "Page 1" [ref=f28e78]: "1"
+        - button "Page 2" [ref=f28e79]: "2"
+    - generic [ref=f28e80]:
+      - heading "Never miss a post" [level=2] [ref=f28e81]
+      - paragraph [ref=f28e82]: Beauty tips and salon news, straight to your inbox.
+      - link "Subscribe" [ref=f28e83] [cursor=pointer]:
+        - /url: /contact
+  - contentinfo [ref=f28e84]:
+    - generic [ref=f28e86]:
+      - link [ref=f28e87] [cursor=pointer]:
+        - /url: /
+        - img "XTRA Beauty" [ref=f28e88]
+      - paragraph [ref=f28e89]: Contact us today and we'll help you get started. Most people start with an About page that introduces them to potential site visitors.
+      - generic [ref=f28e90]:
+        - textbox "Email address" [ref=f28e91]:
+          - /placeholder: Enter your email ...
+        - button "Join Now" [ref=f28e92]
+      - generic [ref=f28e95]:
+        - link "Facebook" [ref=f28e96] [cursor=pointer]:
+          - /url: "#"
+        - link "Twitter" [ref=f28e99] [cursor=pointer]:
+          - /url: "#"
+        - link "Instagram" [ref=f28e102] [cursor=pointer]:
+          - /url: "#"
+        - link "Pinterest" [ref=f28e105] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=f28e109]: Copyright © 2026 Xtro Theme. All Rights Reserved.
+  - button "Back to top"
